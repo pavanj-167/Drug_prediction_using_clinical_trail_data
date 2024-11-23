@@ -52,7 +52,7 @@ drug_name = st.selectbox("Drug Name", list(drug_name_mapping.keys()))
 
 # Dynamically get the drug category
 drug_category = get_drug_category(drug_name)
-st.write(f"Automatically selected category for {drug_name}: **{drug_category}**")
+st.write(f"The selected category for {drug_name}: **{drug_category}**")
 
 # Input fields for other features
 duration_days = st.number_input("Duration Days", min_value=1, max_value=365, value=30)
