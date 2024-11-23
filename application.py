@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 # Load the trained model
 @st.cache_resource
 def load_model():
-    with open('best_model_gb.pkl', 'rb') as file:
+    with open('best_gradient_boosting_model.pkl', 'rb') as file:
         model = pickle.load(file)
     return model
 
