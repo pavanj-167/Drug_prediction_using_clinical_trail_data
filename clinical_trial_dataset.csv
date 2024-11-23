@@ -1,0 +1,1001 @@
+treatment_id,patient_id,drug_id,drug_name,category,duration_days,standard_dosage,dosage,adherence_rate,age,gender,bmi,insurance_type,region,socioeconomic_score,efficacy_score
+T0000,P0000,D039,Sertraline,Depression,105.0,250.0,245.6,0.9824,44.0,M,34.1,Public,Northeast,59.4,57.4
+T0001,P0001,D029,Aspirin,,357.0,100.0,116.61,1.16,61.0,F,27.9,,Northeast,142.82532947616758,48.1
+T0002,P0002,D015,Simvastatin,Cholesterol,331.0,1000.0,1002.09,0.559,46.0,M,24.0,,Southwest,,29.8
+T0003,P0003,D043,Omeprazole,Acid Reflux,318.0,500.0,511.54,0.813,33.0,F,31.3,,Southwest,,40.5
+T0004,P0004,D008,Simvastatin,Cholesterol,30.0,1000.0,873.98,0.746,59.0,F,23.9,Medicare,,,24.7
+T0005,P0005,D021,Omeprazole,,176.0,1000.0,938.36,0.687,41.0,F,27.6,,,59.1,38.7
+T0006,P0006,D039,Omeprazole,Acid Reflux,316.0,1000.0,962.48,0.726,52.0,M,46.11504076801019,Medicare,Midwest,87.6,52.9
+T0007,P0007,D019,Amlodipine,Hypertension,171.0,250.0,242.06,0.861,37.0,M,52.9,Public,West,48.8,49.4
+T0008,P0008,D023,Levothyroxine,Thyroid,82.0,100.0,2213.670671117688,0.983,35.0,M,25.7,,,67.4,62.3
+T0009,P0009,D011,Gabapentin,,333.0,2187.073897230996,105.58,0.881,46.0,M,20.2,Medicare,Midwest,87.4,66.2
+T0010,P0010,D011,,Hypertension,98.0,250.0,222.21,0.789,45.0,F,26.3,,West,142.82532947616758,38.4
+T0011,P0011,D024,Sertraline,Depression,119.0,250.0,256.16,0.896,52.0,F,30.2,Medicaid,West,70.9,63.9
+T0012,P0012,D036,Amlodipine,Hypertension,249.0,100.0,104.98,0.804,40.0,M,25.9,Medicare,Northeast,53.0,45.1
+T0013,P0013,D040,Lisinopril,,221.0,1000.0,1114.01,0.781,45,M,29.1,Private,West,57.4,60.7
+T0014,P0014,D024,Lisinopril,Hypertension,92.0,500.0,579.03,0.735,38.0,M,21.8,,,53.0,32.3
+T0015,P0015,D003,Gabapentin,Neuropathy,102.0,500.0,449.25,0.675,56.0,M,25.9,Medicaid,,54.0,29.0
+T0016,P0016,D022,Simvastatin,Cholesterol,190.0,500.0,459.46,0.811,40.0,M,23.5,Medicaid,Midwest,,68.1
+T0017,P0017,D002,Levothyroxine,Thyroid,198.0,1000.0,874.24,0.866,41.0,M,29.0,,Southeast,,66.0
+T0018,P0018,D024,Gabapentin,Neuropathy,118.0,100.0,97.66,0.84,59.0,M,26.1,Public,West,81.5,51.4
+T0019,P0019,D044,Omeprazole,Acid Reflux,205.0,250.0,261.66,0.808,34.0,F,28.8,Private,West,72.4,63.5
+T0020,P0020,D030,Metformin,Diabetes,298.0,100.0,109.87,0.755,21.0,F,30.4,Public,West,40.9,53.2
+T0021,P0021,D038,Levothyroxine,Thyroid,102.0,1000.0,992.4,0.911,42.0,F,23.9,Private,West,70.9,60.8
+T0022,P0022,D002,Levothyroxine,Thyroid,274.0,250.0,242.0,0.718,37.0,F,27.1,Medicare,Northeast,81.1,52.2
+T0023,P0023,D021,,Acid Reflux,106.0,1000.0,1015.18,0.928,30.0,M,22.0,,Northeast,52.2,52.7
+T0024,P0024,D033,Omeprazole,Acid Reflux,188.0,500.0,458.24,0.75,42.0,M,26.0,Medicaid,Southwest,79.5,56.5
+T0025,P0025,D012,Aspirin,Pain Management,353.0,500.0,604.48,0.775,48,M,23.9,Medicaid,West,75.6,54.6
+T0026,P0026,D022,Gabapentin,Neuropathy,127.0,1000.0,2213.670671117688,0.703,44.0,M,24.6,Medicaid,,,47.0
+T0027,P0027,D044,Omeprazole,,131.0,250.0,254.62,0.8,49.0,M,24.5,,Southwest,58.7,37.7
+T0028,P0028,D025,Lisinopril,Hypertension,161.0,250.0,300.59,0.948,,F,22.1,,West,48.5,42.1
+T0029,P0029,D049,Sertraline,,131.0,2187.073897230996,100.07,0.902,39.0,M,18.2,Medicaid,Northeast,59.6,44.5
+T0030,P0030,D027,,Diabetes,48.0,500.0,490.5,0.948,,F,23.3,Medicare,,86.5,64.5
+T0031,P0031,D042,Gabapentin,Neuropathy,111.0,100.0,96.43,0.902,37.0,M,26.8,Medicare,Southwest,37.6,45.2
+T0032,P0032,D028,Montelukast,Asthma,308.0,100.0,98.2,0.74,,F,23.5,,,34.0,37.1
+T0033,P0033,D016,Lisinopril,Hypertension,360.0,1000.0,1137.28,0.817,87.0,M,26.1,,West,66.3,57.6
+T0034,P0034,D015,Simvastatin,,158.0,1000.0,778.81,0.772,37.0,F,32.5,Public,Midwest,58.4,56.8
+T0035,P0035,D047,Omeprazole,,339.0,100.0,115.33,0.983,50.0,M,30.1,,Southeast,65.1,72.3
+T0036,P0036,D044,Montelukast,Asthma,118.0,500.0,428.8,0.73,80.0,M,46.11504076801019,Public,Southeast,79.2,40.6
+T0037,P0037,D003,Omeprazole,Acid Reflux,242.0,1000.0,973.33,1.329287297995702,34.0,M,27.6,,Northeast,56.7,59.4
+T0038,P0038,D037,Levothyroxine,Thyroid,172.0,100.0,95.71,1.329287297995702,38.0,M,30.7,,West,36.9,49.2
+T0039,P0039,D007,,Hypertension,94.0,100.0,2213.670671117688,1.0,44.0,F,23.1,Public,,95.7,74.3
+T0040,P0040,D021,Levothyroxine,Thyroid,105.0,100.0,84.02,0.809,50.0,M,23.5,Public,,50.0,36.2
+T0041,P0041,D009,Aspirin,Pain Management,228.0,100.0,104.62,0.921,78.0,F,16.0,Private,Northeast,49.1,38.5
+T0042,P0042,D039,Levothyroxine,,172.0,2187.073897230996,120.24,1.0,64.0,M,30.7,,West,81.6,67.8
+T0043,P0043,D018,Aspirin,Pain Management,345.0,100.0,86.37,0.788,18.0,F,32.2,,Northeast,59.2,68.8
+T0044,P0044,D004,Aspirin,Pain Management,122.0,1000.0,1018.97,0.696,18.0,M,23.8,Medicaid,Northeast,64.0,47.4
+T0045,P0045,D025,Montelukast,Asthma,334.0,500.0,466.9,0.662,37.0,M,25.0,Medicaid,Southwest,72.2,46.1
+T0046,P0046,D014,Omeprazole,Acid Reflux,253.0,100.0,104.26,0.921,61.0,F,23.0,Medicare,West,81.3,61.5
+T0047,P0047,D050,Simvastatin,,320.0,2187.073897230996,250.48,0.662,21.0,M,27.5,Private,Midwest,60.0,46.3
+T0048,P0048,D009,Levothyroxine,Thyroid,131.0,1000.0,935.85,0.813,18.0,M,30.5,Public,Southwest,87.8,73.2
+T0049,P0049,D026,Lisinopril,Hypertension,296.0,1000.0,1048.79,0.894,79.0,F,19.0,Private,Northeast,33.0,39.8
+T0050,P0050,D002,Aspirin,Pain Management,139.0,100.0,118.04,0.869,65.0,M,27.6,Private,Midwest,76.4,59.3
+T0051,P0051,D020,Omeprazole,Acid Reflux,359.0,1000.0,980.91,0.893,28.0,F,24.9,Public,Southeast,52.4,62.4
+T0052,P0052,D028,Metformin,Diabetes,294.0,100.0,107.2,0.872,,M,26.5,Medicare,Southeast,85.6,80.8
+T0053,P0053,D047,Gabapentin,Neuropathy,32.0,500.0,435.34,0.978,30.0,F,23.5,Medicaid,Southwest,67.1,64.7
+T0054,P0054,D007,,Asthma,114.0,500.0,452.18,0.755,46.0,F,46.11504076801019,Medicaid,Midwest,54.9,39.0
+T0055,P0055,D044,Simvastatin,Cholesterol,311.0,1000.0,1047.24,0.782,35.0,F,25.6,,West,74.9,63.8
+T0056,P0056,D008,Amlodipine,,357.0,2187.073897230996,1148.41,0.773,52.0,F,25.1,Medicare,Midwest,78.4,53.0
+T0057,P0057,D047,Montelukast,Asthma,333.0,250.0,258.89,0.933,18.0,M,29.9,,Southwest,74.6,86.6
+T0058,P0058,D035,Metformin,Diabetes,146.0,1000.0,968.69,0.94,32.0,M,27.7,Medicare,West,49.6,57.0
+T0059,P0059,D014,,Neuropathy,665.5673320419407,250.0,249.98,0.895,28.0,F,26.9,,West,57.7,61.5
+T0060,P0060,D017,Metformin,Diabetes,183.0,500.0,437.48,0.968,41.0,M,20.9,Private,Southeast,64.9,60.8
+T0061,P0061,D036,Levothyroxine,Thyroid,182.0,500.0,530.23,0.732,36.0,M,46.11504076801019,Private,Midwest,64.4,46.7
+T0062,P0062,D050,Aspirin,Pain Management,41.0,100.0,108.82,1.0,56.0,M,29.6,Medicare,West,76.2,69.6
+T0063,P0063,D040,,Cholesterol,162.0,500.0,477.4,1.0,,F,26.2,Medicaid,Southwest,34.8,67.2
+T0064,P0064,D004,Sertraline,Depression,333.0,250.0,238.25,0.924,,M,23.5,Medicare,Southeast,70.0,68.9
+T0065,P0065,D002,Aspirin,,322.0,1000.0,1026.59,1.0,53.0,M,33.1,Public,West,60.7,76.0
+T0066,P0066,D006,,,329.0,2187.073897230996,95.63,0.684,72.0,F,30.2,Medicaid,Midwest,,29.7
+T0067,P0067,D042,,Neuropathy,257.0,250.0,248.35,0.798,37.0,M,26.4,Medicaid,,53.9,51.7
+T0068,P0068,D004,Omeprazole,Acid Reflux,300.0,1000.0,1209.97,0.776,49.0,F,24.0,Medicare,Midwest,61.8,45.5
+T0069,P0069,D029,Amlodipine,,72.0,100.0,97.53,0.922,18.0,F,16.0,Public,Midwest,11.0,32.9
+T0070,P0070,D018,,,355.0,2187.073897230996,482.08,1.329287297995702,18.0,F,25.3,,Midwest,54.5,55.5
+T0071,P0071,D026,Aspirin,Pain Management,331.0,250.0,233.81,0.926,57.0,M,24.7,Private,Southeast,51.9,47.4
+T0072,P0072,D044,Simvastatin,Cholesterol,50.0,1000.0,1074.42,0.987,44.0,M,27.6,Public,West,73.0,63.6
+T0073,P0073,D034,Metformin,Diabetes,136.0,100.0,98.19,0.92,62.0,F,25.4,Medicaid,,52.9,45.0
+T0074,P0074,D010,Simvastatin,Cholesterol,332.0,100.0,93.51,0.878,24.0,F,24.7,Medicare,West,61.8,60.9
+T0075,P0075,D036,Gabapentin,,146.0,500.0,566.07,0.751,52.0,F,18.9,Medicaid,Southeast,,45.9
+T0076,P0076,D014,,Depression,665.5673320419407,1000.0,1141.96,0.765,73.0,F,22.2,Private,Northeast,79.9,38.8
+T0077,P0077,D031,Metformin,Diabetes,310.0,500.0,469.98,1.329287297995702,51.0,F,27.9,,Northeast,78.5,74.6
+T0078,P0078,D048,Lisinopril,Hypertension,321.0,500.0,406.67,0.928,49.0,F,32.9,Medicaid,Northeast,57.5,63.1
+T0079,P0079,D015,Lisinopril,,232.0,1000.0,1100.75,0.846,45.0,M,25.6,,Southwest,73.1,61.4
+T0080,P0080,D008,Aspirin,Pain Management,80.0,1000.0,931.54,0.808,21.0,F,27.3,Medicaid,Southeast,61.5,61.5
+T0081,P0081,D014,Gabapentin,Neuropathy,300.0,1000.0,1079.06,0.647,65.0,F,29.8,Medicaid,Southwest,62.1,33.8
+T0082,P0082,D023,Omeprazole,,353.0,250.0,200.75,0.743,,F,22.8,Public,Northeast,71.1,53.6
+T0083,P0083,D040,Gabapentin,Neuropathy,306.0,1000.0,1089.26,1.0,52.0,M,27.5,Medicare,Southwest,56.0,65.2
+T0084,P0084,D021,Sertraline,Depression,170.0,100.0,87.89,0.722,21.0,M,23.0,,Southwest,87.4,59.7
+T0085,P0085,D016,Simvastatin,Cholesterol,304.0,500.0,536.54,1.329287297995702,27.0,M,29.5,,Southeast,62.6,67.8
+T0086,P0086,D045,Lisinopril,Hypertension,319.0,250.0,250.36,0.951,66.0,M,26.6,Private,Midwest,74.3,62.4
+T0087,P0087,D018,Simvastatin,Cholesterol,363.0,1000.0,904.61,0.725,39.0,F,27.2,Private,Southwest,86.8,63.7
+T0088,P0088,D047,,Cholesterol,81.0,250.0,239.82,0.868,,M,22.9,Public,Southwest,80.5,53.6
+T0089,P0089,D024,Simvastatin,Cholesterol,56.0,1000.0,1068.63,0.944,43.0,F,28.8,,Northeast,43.9,47.6
+T0090,P0090,D026,Lisinopril,,186.0,2187.073897230996,252.65,0.851,,F,34.3,Private,,71.7,75.6
+T0091,P0091,D025,Montelukast,Asthma,268.0,500.0,529.22,1.0,58.0,F,22.0,Private,Northeast,77.8,61.9
+T0092,P0092,D045,Levothyroxine,Thyroid,185.0,500.0,598.82,0.683,36.0,F,24.6,Medicaid,West,78.4,51.3
+T0093,P0093,D041,Sertraline,,320.0,2187.073897230996,84.36,0.956,55.0,F,26.9,,Southwest,48.3,54.1
+T0094,P0094,D029,Montelukast,Asthma,165.0,100.0,116.17,1.329287297995702,45.0,F,29.1,,Northeast,,45.7
+T0095,P0095,D015,Sertraline,Depression,173.0,1000.0,1010.44,0.927,21.0,M,23.8,Medicaid,,142.82532947616758,75.5
+T0096,P0096,D045,,Diabetes,665.5673320419407,500.0,455.06,0.894,47.0,M,16.0,,West,,43.9
+T0097,P0097,D001,Gabapentin,Neuropathy,187.0,250.0,2213.670671117688,1.329287297995702,77.0,M,31.4,,,60.5,39.4
+T0098,P0098,D025,Gabapentin,Neuropathy,175.0,250.0,245.27,0.873,52.0,M,29.0,Public,Southwest,88.6,66.6
+T0099,P0099,D007,Amlodipine,,31.0,250.0,273.04,0.664,44.0,M,19.0,,Southwest,64.3,26.1
+T0100,P0100,D009,Gabapentin,,106.0,2187.073897230996,98.72,0.91,61.0,F,23.6,Private,Southeast,54.1,46.1
+T0101,P0101,D024,,Hypertension,665.5673320419407,250.0,287.78,0.88,48.0,M,46.11504076801019,Medicaid,Midwest,51.8,51.9
+T0102,P0102,D001,Omeprazole,,119.0,100.0,85.49,0.914,48.0,M,31.8,Public,Midwest,70.0,63.6
+T0103,P0103,D044,Aspirin,Pain Management,292.0,100.0,99.88,0.956,28.0,M,29.8,Medicaid,West,45.0,66.0
+T0104,P0104,D008,Amlodipine,Hypertension,137.0,1000.0,874.76,0.887,48.0,F,25.3,Public,Southwest,61.3,48.0
+T0105,P0105,D024,Aspirin,Pain Management,103.0,250.0,259.09,1.329287297995702,60.0,F,26.3,,Northeast,70.0,47.6
+T0106,P0106,D011,Sertraline,Depression,68.0,250.0,272.17,0.762,32.0,F,25.5,Medicaid,Southeast,84.5,58.6
+T0107,P0107,D017,,Pain Management,188.0,500.0,478.96,0.779,66.0,M,30.5,Private,Southeast,75.0,49.4
+T0108,P0108,D008,Aspirin,Pain Management,100.0,1000.0,739.58,0.969,43.0,M,22.5,Public,Southeast,54.3,55.0
+T0109,P0109,D035,Amlodipine,,341.0,500.0,509.95,1.329287297995702,31.0,M,22.8,,Southeast,82.7,81.2
+T0110,P0110,D035,Metformin,,270.0,1000.0,1043.67,0.826,59.0,M,30.0,Public,Northeast,60.5,51.6
+T0111,P0111,D033,Simvastatin,,327.0,250.0,260.11,0.855,40.0,M,25.8,,Northeast,46.5,48.9
+T0112,P0112,D005,Gabapentin,Neuropathy,65.0,100.0,112.36,0.76,56.0,F,,Private,West,62.4,40.9
+T0113,P0113,D042,Gabapentin,Neuropathy,113.0,100.0,89.29,0.967,40.0,M,23.3,Private,Southwest,86.6,70.9
+T0114,P0114,D039,Lisinopril,Hypertension,292.0,100.0,106.8,0.917,,F,25.8,Medicaid,,67.5,64.3
+T0115,P0115,D041,Amlodipine,,339.0,100.0,111.93,1.0,52.0,M,22.3,Medicare,West,65.2,65.3
+T0116,P0116,D028,Lisinopril,Hypertension,201.0,100.0,82.21,0.762,49.0,F,26.0,Public,Midwest,89.6,55.2
+T0117,P0117,D007,Omeprazole,Acid Reflux,202.0,500.0,515.98,0.812,18.0,F,20.1,Private,Southwest,43.5,44.0
+T0118,P0118,D009,Omeprazole,Acid Reflux,76.0,1000.0,949.58,0.873,28.0,F,,Medicare,Northeast,45.7,56.8
+T0119,P0119,D008,Lisinopril,Hypertension,170.0,250.0,247.96,0.915,58.0,F,20.3,Public,Midwest,40.8,38.6
+T0120,P0120,D012,Amlodipine,,147.0,500.0,517.38,0.828,43.0,M,28.8,,West,70.6,57.5
+T0121,P0121,D034,Lisinopril,Hypertension,306.0,1000.0,951.28,0.763,37.0,M,28.9,Public,Northeast,67.5,55.8
+T0122,P0122,D033,Gabapentin,Neuropathy,243.0,100.0,2213.670671117688,0.938,24.0,M,19.1,Public,,88.1,73.1
+T0123,P0123,D048,Montelukast,Asthma,249.0,1000.0,1003.42,0.922,28.0,F,34.6,Public,Midwest,142.82532947616758,75.1
+T0124,P0124,D023,Levothyroxine,,55.0,1000.0,891.28,0.758,18.0,M,36.0,Public,,58.9,60.5
+T0125,P0125,D024,Aspirin,Pain Management,38.0,100.0,89.14,0.986,43.0,M,26.2,Medicare,Southeast,65.0,56.3
+T0126,P0126,D037,Levothyroxine,Thyroid,300.0,100.0,106.79,0.967,36.0,M,23.4,Medicare,,66.8,64.2
+T0127,P0127,D035,Amlodipine,Hypertension,39.0,100.0,88.51,0.863,30.0,M,43.5,Medicaid,Southwest,39.9,54.5
+T0128,P0128,D044,Levothyroxine,,150.0,250.0,266.66,0.858,43.0,F,20.7,Medicare,Midwest,100.0,64.6
+T0129,P0129,D040,Omeprazole,Acid Reflux,154.0,100.0,104.63,0.905,50.0,F,26.1,,Southwest,72.8,58.0
+T0130,P0130,D022,Sertraline,Depression,199.0,250.0,2213.670671117688,0.764,76.0,M,26.7,Medicaid,,68.2,39.9
+T0131,P0131,D027,Aspirin,Pain Management,101.0,100.0,93.22,0.853,22.0,M,31.4,Medicare,Southwest,74.2,65.8
+T0132,P0132,D035,Simvastatin,Cholesterol,181.0,250.0,279.85,0.635,62.0,M,27.4,,Southeast,75.6,31.5
+T0133,P0133,D001,Amlodipine,Hypertension,237.0,1000.0,901.88,0.938,59.0,F,24.0,Private,Southeast,62.9,58.0
+T0134,P0134,D035,Aspirin,,78.0,500.0,476.78,0.694,33.0,F,22.2,Private,Southwest,,33.0
+T0135,P0135,D037,Levothyroxine,,183.0,1000.0,1046.21,1.0,,F,24.6,Medicaid,West,74.0,70.2
+T0136,P0136,D047,,Acid Reflux,665.5673320419407,1000.0,1078.34,0.817,38.0,M,22.0,,Northeast,70.8,61.4
+T0137,P0137,D014,Metformin,,97.0,100.0,97.48,0.829,47.0,F,26.2,,Southeast,142.82532947616758,40.5
+T0138,P0138,D003,Montelukast,Asthma,79.0,250.0,235.06,0.787,67.0,F,23.7,Medicaid,Southwest,86.3,42.7
+T0139,P0139,D001,,Cholesterol,665.5673320419407,500.0,571.12,0.821,54.0,F,20.0,Private,Southwest,69.4,41.8
+T0140,P0140,D005,Montelukast,Asthma,48.0,100.0,117.39,0.992,52.0,F,31.0,Public,Southwest,75.9,63.4
+T0141,P0141,D026,Aspirin,Pain Management,129.0,100.0,109.79,0.601,38.0,F,24.0,Medicare,,142.82532947616758,39.0
+T0142,P0142,D014,Omeprazole,Acid Reflux,89.0,100.0,100.85,0.978,22.0,M,20.9,Medicaid,Midwest,65.3,68.0
+T0143,P0143,D039,Omeprazole,Acid Reflux,196.0,1000.0,919.17,0.884,41.0,M,25.3,Public,West,69.8,61.0
+T0144,P0144,D027,Levothyroxine,Thyroid,231.0,250.0,229.24,0.729,63.0,M,,Medicaid,Midwest,77.2,44.3
+T0145,P0145,D009,Gabapentin,Neuropathy,175.0,250.0,263.06,0.742,22.0,M,19.0,,West,54.1,39.2
+T0146,P0146,D015,Levothyroxine,Thyroid,193.0,500.0,520.92,1.0,29.0,F,27.3,Medicaid,West,65.8,72.9
+T0147,P0147,D015,Gabapentin,Neuropathy,271.0,250.0,285.04,0.755,46.0,M,21.8,Private,Southwest,66.9,47.1
+T0148,P0148,D026,Gabapentin,Neuropathy,98.0,250.0,266.26,0.735,65.0,M,32.8,Private,Southeast,50.7,45.6
+T0149,P0149,D042,Simvastatin,,204.0,100.0,84.97,1.329287297995702,33.0,M,28.1,,Southwest,142.82532947616758,87.5
+T0150,P0150,D013,Levothyroxine,Thyroid,78.0,100.0,110.52,1.329287297995702,38.0,F,24.4,,Northeast,,44.8
+T0151,P0151,D032,Metformin,Diabetes,137.0,1000.0,900.19,0.756,24.0,M,23.0,Public,West,45.5,44.0
+T0152,P0152,D039,Lisinopril,Hypertension,255.0,100.0,96.16,0.872,30.0,F,25.6,Medicare,Southeast,84.7,74.5
+T0153,P0153,D049,Lisinopril,Hypertension,190.0,100.0,102.5,0.747,55.0,F,28.5,Private,West,75.7,44.0
+T0154,P0154,D032,Levothyroxine,Thyroid,148.0,100.0,119.96,0.96,25.0,F,25.9,Public,West,49.6,59.2
+T0155,P0155,D004,Levothyroxine,Thyroid,178.0,100.0,131.1,0.956,21.0,M,25.1,Medicaid,Southwest,74.1,76.8
+T0156,P0156,D030,Montelukast,Asthma,179.0,1000.0,1060.67,0.903,35.0,F,26.2,,,,71.8
+T0157,P0157,D037,Simvastatin,Cholesterol,322.0,100.0,98.17,0.886,55.0,M,46.11504076801019,Medicare,Southeast,64.5,52.4
+T0158,P0158,D023,Levothyroxine,Thyroid,172.0,500.0,526.73,1.0,42.0,M,24.6,,West,,84.6
+T0159,P0159,D039,Montelukast,Asthma,189.0,500.0,544.38,0.85,38.0,M,46.11504076801019,Medicare,Southeast,,36.0
+T0160,P0160,D045,Gabapentin,Neuropathy,40.0,500.0,483.97,0.732,45.0,F,29.9,,Southeast,75.4,47.4
+T0161,P0161,D015,Omeprazole,Acid Reflux,167.0,500.0,589.76,0.895,18.0,F,27.2,Medicaid,Southwest,82.5,78.8
+T0162,P0162,D043,Omeprazole,Acid Reflux,107.0,100.0,102.3,1.0,,M,34.5,Medicare,,78.4,63.0
+T0163,P0163,D029,Gabapentin,Neuropathy,106.0,500.0,524.89,0.749,50.0,F,33.6,Medicaid,Northeast,61.9,50.8
+T0164,P0164,D036,Amlodipine,Hypertension,283.0,100.0,106.66,0.814,38.0,F,26.3,Public,Midwest,60.6,51.8
+T0165,P0165,D013,Montelukast,Asthma,287.0,1000.0,1042.16,0.892,60.0,F,21.9,,,71.7,54.4
+T0166,P0166,D032,Montelukast,,349.0,500.0,541.95,0.845,28.0,M,29.4,,West,77.2,77.7
+T0167,P0167,D007,Gabapentin,Neuropathy,320.0,250.0,234.57,0.752,61.0,F,27.6,Private,,74.0,44.0
+T0168,P0168,D022,Metformin,Diabetes,292.0,500.0,472.08,0.962,47.0,F,27.6,Medicaid,Northeast,80.6,73.2
+T0169,P0169,D028,Sertraline,Depression,114.0,500.0,444.99,1.0,39.0,M,46.11504076801019,Medicaid,,49.7,61.0
+T0170,P0170,D002,Aspirin,Pain Management,175.0,100.0,104.4,0.87,44.0,F,27.8,Medicare,Northeast,,58.5
+T0171,P0171,D042,Gabapentin,Neuropathy,352.0,500.0,538.95,0.76,43.0,M,46.11504076801019,Private,West,,43.0
+T0172,P0172,D045,Levothyroxine,,71.0,2187.073897230996,261.44,0.695,63.0,F,28.2,Private,Northeast,,26.4
+T0173,P0173,D006,Levothyroxine,Thyroid,154.0,100.0,116.74,0.876,28.0,F,46.11504076801019,Public,Midwest,,63.0
+T0174,P0174,D028,,Cholesterol,665.5673320419407,100.0,99.94,0.96,33.0,F,24.3,Public,Northeast,,70.3
+T0175,P0175,D028,Gabapentin,Neuropathy,270.0,1000.0,1066.87,0.898,60.0,F,32.9,Medicare,Southwest,100.0,73.8
+T0176,P0176,D044,Simvastatin,Cholesterol,309.0,1000.0,2213.670671117688,0.85,36.0,F,22.9,,,67.9,55.1
+T0177,P0177,D044,Gabapentin,Neuropathy,217.0,500.0,480.65,0.791,58.0,F,23.6,Private,Northeast,65.9,42.2
+T0178,P0178,D020,Montelukast,Asthma,331.0,1000.0,2213.670671117688,0.741,70.0,M,24.2,Public,,,38.5
+T0179,P0179,D030,Aspirin,Pain Management,48.0,1000.0,1084.91,1.329287297995702,38.0,F,21.1,,Southwest,55.4,48.8
+T0180,P0180,D011,Montelukast,Asthma,97.0,1000.0,970.6,0.941,55.0,F,17.2,,Northeast,64.1,46.8
+T0181,P0181,D028,Sertraline,Depression,247.0,100.0,99.28,0.695,27.0,F,25.1,,,81.9,53.4
+T0182,P0182,D025,Omeprazole,Acid Reflux,131.0,100.0,84.82,1.0,56.0,M,,Medicaid,Southwest,66.7,55.6
+T0183,P0183,D039,Lisinopril,,71.0,100.0,96.43,0.907,47.0,M,25.8,Public,Southwest,53.1,47.1
+T0184,P0184,D033,Gabapentin,Neuropathy,317.0,1000.0,1089.04,0.99,52.0,M,25.4,,Southwest,51.1,59.8
+T0185,P0185,D001,Sertraline,Depression,196.0,100.0,105.75,0.716,35.0,F,26.2,,West,58.2,42.0
+T0186,P0186,D027,Omeprazole,Acid Reflux,138.0,1000.0,1050.07,0.713,20.0,F,30.1,,Southwest,66.1,51.2
+T0187,P0187,D013,Amlodipine,Hypertension,65.0,100.0,100.5,0.835,52.0,M,25.2,Public,West,82.9,47.6
+T0188,P0188,D041,Aspirin,Pain Management,261.0,100.0,100.07,0.9,18.0,M,23.7,Medicare,Midwest,,57.6
+T0189,P0189,D003,Simvastatin,,258.0,250.0,233.49,1.0,40.0,M,43.4,Medicaid,Northeast,,69.7
+T0190,P0190,D039,Simvastatin,Cholesterol,193.0,500.0,534.94,0.921,59.0,F,28.3,Public,Northeast,67.2,60.9
+T0191,P0191,D006,Montelukast,Asthma,102.0,1000.0,1042.1,0.826,47.0,M,31.6,Medicare,Southeast,37.5,44.4
+T0192,P0192,D008,Levothyroxine,Thyroid,165.0,250.0,262.3,0.747,74.0,F,23.5,Private,Midwest,52.5,21.2
+T0193,P0193,D027,Omeprazole,Acid Reflux,99.0,100.0,94.74,0.973,60.0,F,26.4,Medicaid,,142.82532947616758,47.8
+T0194,P0194,D009,Amlodipine,Hypertension,225.0,1000.0,784.67,0.754,35.0,F,27.4,Medicare,Southwest,53.1,47.2
+T0195,P0195,D037,Sertraline,Depression,298.0,100.0,110.97,1.0,45.0,M,22.0,Medicaid,Midwest,67.9,68.7
+T0196,P0196,D033,Aspirin,,78.0,500.0,476.06,1.329287297995702,44.0,F,43.4,,Southwest,62.6,47.9
+T0197,P0197,D042,Omeprazole,Acid Reflux,345.0,250.0,228.43,1.0,21.0,M,20.1,,Southeast,56.7,65.1
+T0198,P0198,D044,,Hypertension,665.5673320419407,500.0,534.67,0.918,30.0,M,18.9,,,71.4,57.4
+T0199,P0199,D024,Lisinopril,Hypertension,34.0,250.0,240.2,0.836,56.0,M,27.5,,Northeast,90.8,64.3
+T0200,P0200,D015,Gabapentin,Neuropathy,56.0,100.0,110.6,0.798,18.0,M,,Medicaid,,89.6,66.5
+T0201,P0201,D032,Simvastatin,Cholesterol,189.0,500.0,530.85,0.816,45.0,F,26.8,Public,Northeast,36.2,40.1
+T0202,P0202,D032,Sertraline,,178.0,500.0,534.18,0.893,41.0,F,25.9,Medicaid,West,73.7,62.6
+T0203,P0203,D024,Simvastatin,Cholesterol,293.0,100.0,86.34,0.858,19.0,F,22.1,Medicare,Midwest,62.3,63.1
+T0204,P0204,D041,Sertraline,,259.0,500.0,560.6,0.791,51.0,F,46.11504076801019,Medicaid,,67.3,48.8
+T0205,P0205,D049,Montelukast,Asthma,229.0,1000.0,1026.13,1.329287297995702,55.0,M,,,Southwest,,43.0
+T0206,P0206,D049,Levothyroxine,,79.0,250.0,2213.670671117688,0.858,48.0,M,31.6,Medicaid,,66.8,56.9
+T0207,P0207,D012,Sertraline,Depression,96.0,250.0,253.58,0.637,40.0,M,20.6,Medicare,Southwest,67.3,29.3
+T0208,P0208,D039,Simvastatin,Cholesterol,329.0,250.0,205.59,0.896,53.0,M,25.2,Medicaid,West,56.3,52.7
+T0209,P0209,D002,,Asthma,87.0,1000.0,2213.670671117688,0.752,55.0,F,21.8,Private,,51.6,27.2
+T0210,P0210,D003,,,665.5673320419407,250.0,224.27,0.735,49.0,M,28.3,Medicare,West,58.3,45.2
+T0211,P0211,D049,Lisinopril,,355.0,100.0,2213.670671117688,1.329287297995702,32.0,F,24.7,,,68.5,49.6
+T0212,P0212,D037,Levothyroxine,,159.0,500.0,423.88,0.671,49.0,M,23.9,Private,West,74.0,38.0
+T0213,P0213,D049,Sertraline,,244.0,2187.073897230996,1111.27,0.714,62.0,M,29.4,Medicaid,Southwest,77.8,49.4
+T0214,P0214,D017,Montelukast,Asthma,201.0,250.0,234.27,0.779,36.0,M,26.1,Public,Southeast,57.6,48.5
+T0215,P0215,D049,Omeprazole,Acid Reflux,287.0,100.0,115.34,1.0,76.0,M,28.1,Medicaid,West,69.3,59.2
+T0216,P0216,D002,Metformin,Diabetes,131.0,500.0,473.21,0.797,37.0,F,22.1,,Southeast,79.4,55.1
+T0217,P0217,D002,Amlodipine,Hypertension,238.0,500.0,414.63,0.868,45.0,F,20.4,Public,Southwest,82.5,54.5
+T0218,P0218,D028,,Diabetes,320.0,1000.0,888.35,0.89,34.0,F,26.4,Medicare,West,64.1,62.1
+T0219,P0219,D023,Metformin,,315.0,1000.0,1123.58,0.863,48.0,F,24.7,Public,Northeast,61.7,55.1
+T0220,P0220,D037,Aspirin,,145.0,1000.0,984.41,0.842,18.0,M,28.5,Medicare,Northeast,67.9,67.5
+T0221,P0221,D032,,Hypertension,293.0,100.0,94.52,0.73,36.0,M,25.7,Public,Southeast,47.8,37.7
+T0222,P0222,D033,Omeprazole,Acid Reflux,179.0,100.0,101.6,0.995,28.0,F,26.8,Medicaid,Northeast,62.1,71.0
+T0223,P0223,D001,Gabapentin,Neuropathy,329.0,1000.0,1050.18,1.329287297995702,47.0,F,19.5,,Northeast,76.2,66.4
+T0224,P0224,D019,Sertraline,Depression,65.0,250.0,277.93,0.682,59.0,M,33.6,Medicare,,74.6,40.0
+T0225,P0225,D002,Amlodipine,Hypertension,362.0,500.0,572.42,0.748,54.0,M,25.3,Medicare,Southwest,60.9,46.0
+T0226,P0226,D044,Levothyroxine,Thyroid,316.0,500.0,482.01,0.822,18.0,F,28.8,Private,Northeast,68.3,71.9
+T0227,P0227,D026,Omeprazole,Acid Reflux,332.0,100.0,86.74,0.754,,F,22.7,Private,Midwest,52.6,27.8
+T0228,P0228,D032,Simvastatin,Cholesterol,340.0,500.0,479.33,0.901,49.0,F,27.2,,West,75.6,65.2
+T0229,P0229,D006,Gabapentin,Neuropathy,237.0,250.0,256.51,0.777,33.0,M,20.8,,Northeast,63.8,43.3
+T0230,P0230,D032,Aspirin,Pain Management,135.0,500.0,451.81,1.0,47.0,F,27.8,Private,Northeast,60.9,68.0
+T0231,P0231,D004,Aspirin,,187.0,100.0,90.43,0.969,47.0,F,24.6,Private,Northeast,59.6,60.5
+T0232,P0232,D011,Omeprazole,Acid Reflux,150.0,100.0,103.44,0.871,34.0,F,26.1,Medicare,Midwest,64.1,56.0
+T0233,P0233,D017,Montelukast,,84.0,2187.073897230996,248.78,0.953,47.0,F,28.8,Public,Northeast,58.3,60.2
+T0234,P0234,D038,Metformin,Diabetes,41.0,250.0,250.82,0.961,,F,,Medicare,Northeast,74.9,61.7
+T0235,P0235,D024,,Cholesterol,665.5673320419407,500.0,462.08,0.794,38.0,M,23.3,Private,West,59.1,44.2
+T0236,P0236,D005,Aspirin,Pain Management,165.0,500.0,488.48,0.768,34.0,F,27.8,,Midwest,88.9,63.8
+T0237,P0237,D034,Amlodipine,Hypertension,32.0,100.0,90.76,0.858,23.0,M,34.4,Private,Midwest,87.0,74.8
+T0238,P0238,D006,Aspirin,Pain Management,173.0,250.0,272.25,0.936,47.0,F,25.4,Medicaid,Northeast,51.6,51.9
+T0239,P0239,D022,Levothyroxine,,59.0,250.0,275.88,0.864,53.0,F,28.4,Medicaid,Midwest,66.0,50.6
+T0240,P0240,D011,Sertraline,Depression,266.0,250.0,203.85,0.692,,F,25.6,Medicaid,Southeast,55.2,32.5
+T0241,P0241,D048,Aspirin,Pain Management,308.0,500.0,453.52,0.77,57.0,M,33.8,Medicaid,Midwest,60.1,52.7
+T0242,P0242,D016,Levothyroxine,Thyroid,144.0,250.0,212.59,1.329287297995702,,M,19.0,,Midwest,95.0,61.3
+T0243,P0243,D033,Omeprazole,Acid Reflux,133.0,100.0,93.5,0.842,54.0,M,26.4,,Midwest,,50.2
+T0244,P0244,D009,Omeprazole,Acid Reflux,147.0,100.0,99.17,1.0,,F,19.5,Medicare,Southwest,70.4,51.3
+T0245,P0245,D006,Gabapentin,,34.0,500.0,427.52,0.711,24.0,F,16.0,Medicaid,Southwest,73.1,32.4
+T0246,P0246,D016,Aspirin,Pain Management,277.0,1000.0,907.81,0.901,31.0,M,27.2,Medicaid,Southwest,,59.9
+T0247,P0247,D029,Amlodipine,,350.0,500.0,449.8,0.999,30.0,M,26.6,Medicare,Midwest,52.2,70.0
+T0248,P0248,D003,Aspirin,Pain Management,150.0,1000.0,1020.73,1.0,61.0,F,24.9,Medicare,Southeast,46.9,49.9
+T0249,P0249,D020,Amlodipine,Hypertension,315.0,250.0,251.73,0.81,59.0,M,35.6,Medicaid,Midwest,,41.7
+T0250,P0250,D036,Lisinopril,Hypertension,178.0,500.0,463.91,0.899,52.0,F,38.4,Medicare,Northeast,,43.3
+T0251,P0251,D019,Gabapentin,Neuropathy,113.0,100.0,101.77,0.907,61.0,M,25.0,Medicare,Southeast,142.82532947616758,47.0
+T0252,P0252,D026,Lisinopril,Hypertension,260.0,250.0,236.33,0.87,31.0,M,28.0,,Southwest,95.8,79.8
+T0253,P0253,D003,Aspirin,Pain Management,317.0,100.0,97.28,1.329287297995702,50.0,M,23.4,,West,142.82532947616758,52.9
+T0254,P0254,D019,Gabapentin,,190.0,2187.073897230996,291.84,0.894,43.0,F,27.2,Private,Southeast,43.8,48.2
+T0255,P0255,D020,Lisinopril,Hypertension,301.0,500.0,567.02,0.597,57.0,F,25.0,,Southwest,55.4,19.4
+T0256,P0256,D032,Metformin,Diabetes,67.0,1000.0,870.04,0.918,,M,24.4,Private,Southeast,58.1,52.8
+T0257,P0257,D007,Aspirin,Pain Management,255.0,250.0,270.74,0.863,39.0,F,33.3,Medicaid,Southeast,49.7,63.0
+T0258,P0258,D041,Lisinopril,Hypertension,171.0,1000.0,1081.14,0.828,53.0,F,30.7,Private,Midwest,77.9,59.2
+T0259,P0259,D033,Metformin,Diabetes,321.0,250.0,221.29,1.0,58.0,F,26.5,Public,Northeast,77.2,68.9
+T0260,P0260,D040,Metformin,Diabetes,180.0,100.0,108.19,0.783,34.0,F,16.8,,West,47.7,34.0
+T0261,P0261,D039,,Acid Reflux,143.0,100.0,115.38,0.81,44.0,M,24.6,Medicaid,Southwest,75.9,48.3
+T0262,P0262,D018,Aspirin,,266.0,250.0,221.94,1.0,,F,36.8,,Southeast,,100.0
+T0263,P0263,D040,Metformin,Diabetes,95.0,1000.0,908.25,0.767,,F,25.1,Private,West,,66.3
+T0264,P0264,D001,Omeprazole,,287.0,2187.073897230996,550.88,0.795,48.0,M,43.9,Public,,100.0,65.8
+T0265,P0265,D011,Lisinopril,Hypertension,278.0,500.0,513.57,0.835,54.0,F,31.8,Public,Northeast,51.5,50.0
+T0266,P0266,D028,Levothyroxine,Thyroid,360.0,100.0,105.51,0.934,48.0,F,26.9,Medicaid,West,100.0,82.8
+T0267,P0267,D025,Aspirin,Pain Management,352.0,500.0,517.03,0.871,18.0,F,22.6,Medicaid,Southwest,59.7,63.9
+T0268,P0268,D050,Gabapentin,Neuropathy,209.0,100.0,103.91,0.721,39.0,M,16.3,Public,Southeast,,29.8
+T0269,P0269,D023,Amlodipine,Hypertension,219.0,500.0,433.68,0.797,18.0,M,28.7,Private,Northeast,69.9,62.0
+T0270,P0270,D031,Amlodipine,Hypertension,183.0,250.0,276.18,0.789,65.0,F,22.7,,West,56.3,33.9
+T0271,P0271,D030,Lisinopril,Hypertension,225.0,100.0,111.7,0.842,28.0,F,44.7,Public,,71.0,62.1
+T0272,P0272,D042,Montelukast,Asthma,340.0,100.0,97.71,0.893,63.0,M,,Medicare,Southeast,45.2,33.9
+T0273,P0273,D035,Montelukast,Asthma,291.0,250.0,248.91,0.892,59.0,M,24.9,,Southwest,61.4,50.6
+T0274,P0274,D007,Lisinopril,Hypertension,172.0,100.0,84.69,0.672,31.0,M,26.1,Medicaid,,84.3,54.5
+T0275,P0275,D016,,,345.0,500.0,525.71,0.956,46.0,F,27.1,Private,Midwest,64.1,73.8
+T0276,P0276,D026,Aspirin,,130.0,500.0,528.6,0.875,50.0,F,21.5,Medicare,Southeast,,52.9
+T0277,P0277,D048,,Hypertension,665.5673320419407,100.0,99.38,0.988,32.0,M,30.8,Medicare,West,72.1,82.7
+T0278,P0278,D049,Amlodipine,Hypertension,41.0,500.0,556.22,0.894,46.0,F,23.6,Medicare,Southwest,,58.8
+T0279,P0279,D002,Metformin,Diabetes,268.0,1000.0,966.59,0.96,,F,19.3,Private,Southwest,40.2,49.8
+T0280,P0280,D001,,Hypertension,665.5673320419407,100.0,105.65,0.897,56.0,F,25.6,Private,Southeast,73.8,68.2
+T0281,P0281,D048,Gabapentin,,71.0,250.0,224.51,0.985,18.0,F,26.1,Medicaid,Southeast,61.0,69.9
+T0282,P0282,D012,Aspirin,Pain Management,195.0,1000.0,997.64,0.902,48.0,F,26.6,Medicaid,Southeast,,57.8
+T0283,P0283,D005,Sertraline,Depression,111.0,100.0,98.26,0.84,36.0,F,31.4,Medicare,Midwest,80.9,68.1
+T0284,P0284,D037,Amlodipine,Hypertension,320.0,250.0,255.63,1.0,36.0,F,25.1,,Southeast,47.1,62.1
+T0285,P0285,D032,Lisinopril,Hypertension,187.0,500.0,481.52,0.939,55.0,M,25.5,Public,Northeast,142.82532947616758,46.5
+T0286,P0286,D009,Gabapentin,Neuropathy,245.0,250.0,246.71,0.907,62.0,M,,Medicare,West,36.0,32.0
+T0287,P0287,D041,Amlodipine,Hypertension,187.0,1000.0,1082.6,0.722,,M,29.3,,Southeast,56.8,49.4
+T0288,P0288,D035,Gabapentin,Neuropathy,163.0,500.0,478.16,0.721,39.0,M,46.11504076801019,Private,Midwest,85.0,54.9
+T0289,P0289,D019,,Acid Reflux,96.0,100.0,83.93,0.879,52.0,M,,Medicaid,West,63.2,48.5
+T0290,P0290,D048,Sertraline,Depression,36.0,500.0,587.48,0.865,,M,18.4,Medicaid,Southwest,44.9,38.2
+T0291,P0291,D016,Simvastatin,Cholesterol,43.0,100.0,113.81,0.789,65.0,M,31.8,Private,Southeast,57.7,46.7
+T0292,P0292,D003,,Hypertension,102.0,100.0,87.08,0.864,53.0,M,21.1,,West,142.82532947616758,32.9
+T0293,P0293,D020,Lisinopril,,192.0,2187.073897230996,267.24,1.0,55.0,M,23.6,Private,Southwest,48.1,52.9
+T0294,P0294,D024,Aspirin,Pain Management,95.0,250.0,237.43,0.92,,F,,Medicare,Midwest,70.8,68.8
+T0295,P0295,D033,Gabapentin,Neuropathy,159.0,250.0,256.59,0.736,33.0,F,21.2,Medicaid,,47.4,34.5
+T0296,P0296,D024,,Diabetes,235.0,1000.0,1029.42,0.839,34.0,M,20.0,Private,,81.7,59.4
+T0297,P0297,D011,Lisinopril,Hypertension,305.0,1000.0,976.56,0.77,46.0,F,17.5,Public,Northeast,63.9,37.7
+T0298,P0298,D049,Gabapentin,Neuropathy,285.0,250.0,2213.670671117688,0.811,52.0,F,28.9,,,66.3,55.6
+T0299,P0299,D008,,,665.5673320419407,1000.0,930.95,0.809,67.0,M,23.8,Public,West,142.82532947616758,35.4
+T0300,P0300,D036,Levothyroxine,Thyroid,54.0,500.0,454.19,0.802,37.0,M,,Medicare,West,,67.4
+T0301,P0301,D038,Levothyroxine,Thyroid,310.0,500.0,458.41,0.724,37.0,M,22.0,Private,Midwest,142.82532947616758,52.2
+T0302,P0302,D040,Simvastatin,,282.0,2187.073897230996,993.28,0.837,62.0,F,22.3,Public,Midwest,70.0,44.0
+T0303,P0303,D020,Omeprazole,Acid Reflux,339.0,1000.0,928.42,0.794,49.0,F,23.7,Private,Southeast,73.5,50.4
+T0304,P0304,D035,Simvastatin,Cholesterol,318.0,500.0,534.1,0.557,64.0,M,27.0,Medicare,Southwest,,22.7
+T0305,P0305,D048,Amlodipine,Hypertension,193.0,100.0,114.87,1.0,49.0,F,24.1,,Northeast,73.1,67.5
+T0306,P0306,D025,Metformin,,124.0,500.0,2213.670671117688,0.959,56.0,F,28.4,Medicare,,59.9,67.9
+T0307,P0307,D035,,,299.0,500.0,511.97,0.812,25.0,F,22.1,Medicare,West,65.0,58.4
+T0308,P0308,D025,Montelukast,Asthma,350.0,1000.0,1049.97,0.852,21.0,M,20.5,Medicaid,,60.9,65.2
+T0309,P0309,D029,Amlodipine,Hypertension,139.0,500.0,523.6,0.733,54.0,F,18.8,Medicare,,58.1,25.7
+T0310,P0310,D018,Aspirin,Pain Management,339.0,1000.0,1007.6,1.0,62.0,F,17.1,Public,Midwest,54.7,45.2
+T0311,P0311,D046,Amlodipine,Hypertension,267.0,1000.0,1074.27,1.0,72.0,F,,,Northeast,72.0,61.3
+T0312,P0312,D018,,Cholesterol,665.5673320419407,250.0,262.06,0.866,57.0,F,24.8,Private,Southeast,84.7,58.2
+T0313,P0313,D002,Lisinopril,Hypertension,170.0,500.0,438.12,0.952,62.0,F,23.5,Medicaid,West,82.6,61.3
+T0314,P0314,D035,Lisinopril,,146.0,2187.073897230996,108.69,0.868,36.0,F,31.0,,West,46.2,50.6
+T0315,P0315,D016,Levothyroxine,Thyroid,54.0,250.0,272.18,0.716,,F,30.9,,Northeast,84.3,58.3
+T0316,P0316,D041,Metformin,Diabetes,108.0,1000.0,923.67,0.809,,M,24.7,,West,60.2,35.6
+T0317,P0317,D036,Metformin,Diabetes,97.0,1000.0,1003.79,0.863,51.0,M,18.8,Medicaid,,74.0,47.6
+T0318,P0318,D033,,Pain Management,202.0,100.0,2213.670671117688,0.805,46.0,F,23.7,,,51.4,36.8
+T0319,P0319,D004,,Cholesterol,665.5673320419407,1000.0,979.07,0.828,,M,23.6,Medicaid,Midwest,67.1,42.5
+T0320,P0320,D033,Levothyroxine,Thyroid,317.0,500.0,553.65,0.841,49.0,F,23.4,,West,69.7,51.2
+T0321,P0321,D014,Montelukast,,157.0,250.0,309.1,1.329287297995702,64.0,F,23.2,,Southwest,,31.2
+T0322,P0322,D021,Metformin,Diabetes,125.0,1000.0,921.4,0.855,64.0,F,23.4,Private,,74.1,44.5
+T0323,P0323,D048,Lisinopril,Hypertension,121.0,1000.0,861.9,0.744,53.0,M,24.5,Public,West,85.2,46.8
+T0324,P0324,D020,Amlodipine,,170.0,100.0,103.04,0.778,57.0,F,46.11504076801019,Public,,,37.7
+T0325,P0325,D008,Amlodipine,Hypertension,60.0,500.0,536.08,0.722,52.0,F,26.8,Public,West,85.4,42.7
+T0326,P0326,D007,Levothyroxine,Thyroid,363.0,1000.0,976.91,0.948,38.0,M,,Private,,62.2,71.9
+T0327,P0327,D003,,Cholesterol,49.0,100.0,114.53,0.639,,M,22.4,Public,Southwest,77.7,28.0
+T0328,P0328,D017,,Cholesterol,665.5673320419407,1000.0,866.14,0.965,24.0,F,31.1,Private,Southwest,31.7,58.7
+T0329,P0329,D033,Omeprazole,Acid Reflux,345.0,100.0,106.93,0.989,60.0,M,22.1,Medicare,,100.0,82.4
+T0330,P0330,D048,Sertraline,,189.0,100.0,93.94,0.82,27.0,M,46.11504076801019,Medicare,Midwest,87.4,62.6
+T0331,P0331,D012,Metformin,Diabetes,72.0,500.0,585.97,0.59,,F,27.5,Private,Southwest,60.7,24.4
+T0332,P0332,D022,Simvastatin,Cholesterol,283.0,1000.0,1199.25,0.814,32.0,F,22.7,Public,Southeast,35.4,45.2
+T0333,P0333,D022,Lisinopril,Hypertension,159.0,500.0,461.67,0.844,53.0,F,27.3,Private,Southwest,69.3,57.1
+T0334,P0334,D046,Levothyroxine,Thyroid,89.0,100.0,94.5,0.749,44.0,M,16.4,Private,Midwest,43.3,21.3
+T0335,P0335,D030,Montelukast,Asthma,180.0,250.0,271.49,1.329287297995702,21.0,M,31.6,,Southeast,71.7,68.0
+T0336,P0336,D038,Omeprazole,Acid Reflux,316.0,1000.0,961.29,1.0,51.0,M,28.7,Private,Southeast,71.2,70.7
+T0337,P0337,D038,Gabapentin,Neuropathy,34.0,250.0,248.86,0.916,36.0,F,20.0,Medicaid,Northeast,142.82532947616758,44.9
+T0338,P0338,D045,Aspirin,Pain Management,295.0,1000.0,1002.54,1.329287297995702,58.0,M,,,,81.8,44.0
+T0339,P0339,D008,Montelukast,Asthma,159.0,500.0,404.02,0.69,,M,32.7,Medicaid,,77.1,51.4
+T0340,P0340,D027,Gabapentin,Neuropathy,296.0,500.0,499.31,0.817,50.0,F,23.1,Private,West,79.6,56.1
+T0341,P0341,D027,Amlodipine,Hypertension,207.0,500.0,465.51,0.829,30.0,F,22.7,Medicare,Northeast,,56.1
+T0342,P0342,D034,Aspirin,,282.0,500.0,475.34,0.9,36.0,F,16.9,Medicaid,West,,45.5
+T0343,P0343,D021,Metformin,Diabetes,85.0,500.0,572.18,0.796,38.0,M,24.6,Private,Southwest,79.7,50.0
+T0344,P0344,D030,Lisinopril,,112.0,250.0,218.59,0.901,,F,,,Southeast,60.9,45.1
+T0345,P0345,D033,Aspirin,Pain Management,128.0,500.0,540.66,1.0,76.0,M,28.9,,West,44.2,46.5
+T0346,P0346,D028,,Depression,665.5673320419407,100.0,97.21,0.932,32.0,M,20.4,Private,Southwest,85.3,67.9
+T0347,P0347,D047,Gabapentin,Neuropathy,358.0,100.0,97.2,0.845,,F,,Private,Midwest,96.5,62.5
+T0348,P0348,D033,Metformin,Diabetes,185.0,250.0,269.76,0.832,18.0,F,27.8,Public,Northeast,64.4,60.7
+T0349,P0349,D005,Sertraline,Depression,219.0,1000.0,1034.01,0.814,,F,30.0,Public,Midwest,97.4,76.3
+T0350,P0350,D048,Amlodipine,Hypertension,292.0,100.0,105.71,0.968,30.0,F,19.7,,Southwest,142.82532947616758,69.5
+T0351,P0351,D019,Sertraline,,109.0,1000.0,1096.82,0.787,24.0,F,30.3,Medicaid,Midwest,59.3,54.8
+T0352,P0352,D004,Omeprazole,,281.0,250.0,241.72,0.855,21.0,M,26.2,Medicaid,Midwest,55.5,63.2
+T0353,P0353,D035,Omeprazole,Acid Reflux,126.0,1000.0,938.78,0.855,51.0,M,30.4,Private,Southwest,89.6,64.8
+T0354,P0354,D049,Levothyroxine,,289.0,1000.0,891.48,0.8,45.0,M,25.7,Medicaid,Southeast,,48.5
+T0355,P0355,D017,Montelukast,Asthma,289.0,1000.0,2213.670671117688,0.713,50.0,F,16.0,,,76.0,36.1
+T0356,P0356,D044,Montelukast,Asthma,132.0,1000.0,1294.91,0.882,55.0,M,25.4,Medicaid,,56.6,47.8
+T0357,P0357,D028,Metformin,,69.0,250.0,281.12,0.844,48.0,F,30.2,,West,58.1,44.8
+T0358,P0358,D030,Amlodipine,Hypertension,302.0,100.0,86.49,0.9,54.0,F,22.4,Private,Northeast,80.5,59.7
+T0359,P0359,D029,Simvastatin,Cholesterol,130.0,500.0,433.88,0.797,43.0,M,24.4,Public,West,59.3,44.2
+T0360,P0360,D046,Omeprazole,Acid Reflux,337.0,1000.0,1048.19,0.972,27.0,M,25.3,Medicare,Midwest,58.9,73.7
+T0361,P0361,D006,Metformin,,250.0,2187.073897230996,105.47,0.762,60.0,F,16.0,Private,Southeast,82.0,42.9
+T0362,P0362,D035,Simvastatin,Cholesterol,337.0,100.0,105.49,1.0,36.0,M,32.7,Medicaid,Midwest,89.0,91.4
+T0363,P0363,D041,Montelukast,Asthma,153.0,250.0,243.63,0.675,30.0,F,22.4,Public,Southeast,74.7,47.6
+T0364,P0364,D037,Levothyroxine,Thyroid,260.0,100.0,98.75,0.893,42.0,M,28.0,Medicaid,Southwest,142.82532947616758,56.2
+T0365,P0365,D024,Sertraline,Depression,207.0,250.0,258.2,0.898,31.0,M,25.7,Medicaid,Northeast,57.3,63.5
+T0366,P0366,D029,Omeprazole,Acid Reflux,92.0,1000.0,1008.59,0.77,38.0,M,31.0,Private,Northeast,66.2,54.3
+T0367,P0367,D049,Metformin,Diabetes,145.0,1000.0,778.07,0.892,50.0,M,27.6,,Southwest,69.8,55.0
+T0368,P0368,D046,Aspirin,,220.0,500.0,2213.670671117688,0.978,50.0,M,25.1,Medicare,,50.2,56.5
+T0369,P0369,D031,Simvastatin,,91.0,500.0,457.43,0.628,31.0,F,,Private,Southwest,75.8,37.5
+T0370,P0370,D035,,Depression,665.5673320419407,500.0,508.76,0.9,37.0,M,29.2,Private,Southwest,66.3,69.5
+T0371,P0371,D033,,Acid Reflux,665.5673320419407,100.0,129.85,0.601,61.0,M,18.5,Medicare,Southeast,39.3,0.0
+T0372,P0372,D021,Montelukast,Asthma,184.0,1000.0,1036.75,0.753,52.0,M,28.6,,Southwest,51.1,37.2
+T0373,P0373,D032,Amlodipine,Hypertension,121.0,250.0,242.16,1.0,76.0,F,21.6,Medicare,Northeast,57.4,47.7
+T0374,P0374,D023,Simvastatin,,43.0,500.0,546.09,0.792,62.0,F,31.0,Medicare,Midwest,63.9,41.4
+T0375,P0375,D033,Montelukast,Asthma,258.0,250.0,262.07,0.733,62.0,F,26.6,Medicare,Southeast,93.3,54.2
+T0376,P0376,D003,Omeprazole,Acid Reflux,115.0,250.0,260.5,0.83,24.0,F,28.6,Public,Southeast,68.6,61.4
+T0377,P0377,D018,Simvastatin,Cholesterol,162.0,500.0,530.34,1.0,56.0,F,26.3,Medicaid,West,52.4,60.5
+T0378,P0378,D025,Sertraline,Depression,212.0,1000.0,1205.65,0.667,44.0,M,19.0,Public,Midwest,68.3,30.5
+T0379,P0379,D042,Omeprazole,Acid Reflux,91.0,500.0,443.46,0.745,36.0,M,22.6,Public,Southeast,59.7,36.9
+T0380,P0380,D031,Gabapentin,Neuropathy,248.0,250.0,261.84,1.0,54.0,M,28.7,Private,Southwest,69.9,76.8
+T0381,P0381,D003,Metformin,Diabetes,275.0,500.0,453.68,1.0,59.0,F,,Medicare,Southeast,73.7,66.8
+T0382,P0382,D040,,Depression,259.0,250.0,263.89,0.84,52.0,F,30.7,Medicare,Southeast,83.1,69.4
+T0383,P0383,D046,Simvastatin,Cholesterol,108.0,250.0,227.03,0.726,31.0,M,27.6,,Southeast,64.6,49.6
+T0384,P0384,D024,Amlodipine,Hypertension,178.0,500.0,479.13,1.0,,F,22.1,Private,West,89.6,68.4
+T0385,P0385,D050,Montelukast,Asthma,167.0,100.0,97.05,1.0,75.0,F,22.8,Private,Southeast,78.6,67.5
+T0386,P0386,D032,Aspirin,Pain Management,343.0,500.0,548.79,0.918,48.0,F,26.4,Private,,54.4,58.2
+T0387,P0387,D047,Montelukast,Asthma,94.0,100.0,109.18,0.769,40.0,M,16.7,Medicaid,West,98.1,51.0
+T0388,P0388,D022,Simvastatin,Cholesterol,42.0,250.0,218.86,0.845,65.0,M,32.7,Public,Midwest,69.9,62.6
+T0389,P0389,D023,Montelukast,,242.0,250.0,251.37,1.329287297995702,56.0,F,27.8,,Northeast,52.5,49.6
+T0390,P0390,D002,Metformin,Diabetes,271.0,100.0,92.9,0.883,,F,30.9,Private,West,89.8,79.6
+T0391,P0391,D027,Omeprazole,,242.0,250.0,218.54,0.995,74.0,F,46.11504076801019,Private,West,96.2,65.9
+T0392,P0392,D042,Aspirin,Pain Management,210.0,100.0,97.83,0.938,56.0,F,31.0,Private,Southeast,,79.6
+T0393,P0393,D002,Lisinopril,,202.0,2187.073897230996,96.92,0.742,36.0,M,34.9,,Southeast,57.4,56.7
+T0394,P0394,D026,Simvastatin,,189.0,250.0,310.67,0.988,50.0,F,,Public,Northeast,62.4,58.0
+T0395,P0395,D017,Levothyroxine,Thyroid,193.0,1000.0,1043.3,1.329287297995702,53.0,M,,,Southeast,75.7,55.5
+T0396,P0396,D040,Lisinopril,Hypertension,217.0,100.0,86.22,0.919,43.0,M,26.0,Medicaid,Southwest,84.2,69.3
+T0397,P0397,D033,Montelukast,,220.0,2187.073897230996,471.76,0.997,44.0,M,19.8,Medicare,Southeast,73.6,61.6
+T0398,P0398,D009,Simvastatin,Cholesterol,337.0,500.0,551.07,0.739,51.0,F,28.0,Public,Southeast,142.82532947616758,47.7
+T0399,P0399,D043,Gabapentin,,285.0,250.0,302.21,0.846,41.0,M,29.3,Medicare,Southwest,87.5,74.0
+T0400,P0400,D048,Levothyroxine,Thyroid,212.0,1000.0,841.4,0.797,65.0,M,23.6,Private,Northeast,60.3,37.4
+T0401,P0401,D039,Aspirin,Pain Management,146.0,250.0,203.0,0.693,76.0,F,30.7,Medicaid,,80.5,48.6
+T0402,P0402,D029,Amlodipine,Hypertension,311.0,1000.0,1187.1,0.885,58.0,F,19.3,,,60.7,46.7
+T0403,P0403,D042,Gabapentin,Neuropathy,225.0,100.0,103.9,1.0,30.0,F,20.0,Private,,71.5,66.6
+T0404,P0404,D026,Lisinopril,Hypertension,63.0,100.0,91.32,0.666,43.0,M,26.5,Private,Midwest,63.3,26.7
+T0405,P0405,D035,Omeprazole,Acid Reflux,81.0,100.0,105.35,0.847,40.0,F,26.1,Private,West,,51.9
+T0406,P0406,D050,Metformin,Diabetes,141.0,100.0,73.64,0.914,29.0,M,23.1,Public,Southeast,59.3,57.6
+T0407,P0407,D025,Amlodipine,Hypertension,281.0,500.0,500.17,0.862,50.0,M,29.2,Medicare,West,85.2,64.9
+T0408,P0408,D024,Gabapentin,Neuropathy,111.0,500.0,516.39,0.839,36.0,F,28.1,,Northeast,,45.9
+T0409,P0409,D013,Omeprazole,Acid Reflux,261.0,250.0,2213.670671117688,0.72,54.0,M,,,,53.9,36.8
+T0410,P0410,D007,Omeprazole,Acid Reflux,256.0,1000.0,898.61,0.873,,M,25.5,Private,Southwest,96.8,77.6
+T0411,P0411,D036,,,665.5673320419407,2187.073897230996,100.86,0.774,70.0,M,28.4,Private,West,79.7,49.9
+T0412,P0412,D045,Gabapentin,,250.0,100.0,90.75,0.631,31.0,M,24.2,,Southeast,29.2,23.7
+T0413,P0413,D020,Aspirin,Pain Management,71.0,1000.0,1025.54,1.329287297995702,48.0,F,46.11504076801019,,Northeast,56.5,68.3
+T0414,P0414,D001,Montelukast,,50.0,1000.0,910.47,0.946,56.0,M,22.7,,Southeast,37.8,34.3
+T0415,P0415,D008,Levothyroxine,Thyroid,71.0,250.0,239.8,0.855,36.0,F,34.4,Medicare,Midwest,50.7,58.6
+T0416,P0416,D046,Levothyroxine,Thyroid,142.0,1000.0,900.42,0.873,64.0,M,26.1,Private,Northeast,142.82532947616758,27.7
+T0417,P0417,D016,Lisinopril,Hypertension,134.0,100.0,106.51,0.957,26.0,M,20.5,,,62.9,63.9
+T0418,P0418,D014,Lisinopril,Hypertension,221.0,100.0,108.58,0.872,66.0,F,31.5,Public,Midwest,47.9,44.4
+T0419,P0419,D012,Levothyroxine,Thyroid,46.0,100.0,97.65,0.94,45.0,M,26.5,Medicare,West,65.9,60.9
+T0420,P0420,D023,Aspirin,,149.0,2187.073897230996,100.38,0.82,36.0,M,29.4,Public,Southeast,40.6,46.3
+T0421,P0421,D015,Metformin,Diabetes,158.0,100.0,85.51,0.981,40.0,M,30.9,,Northeast,66.2,69.6
+T0422,P0422,D028,Sertraline,Depression,159.0,250.0,242.51,0.882,57.0,M,27.4,,Midwest,58.8,48.9
+T0423,P0423,D034,Montelukast,Asthma,89.0,100.0,99.5,0.869,86.0,M,23.6,Medicaid,Midwest,87.5,62.7
+T0424,P0424,D002,Metformin,Diabetes,77.0,250.0,315.52,0.723,33.0,M,29.9,Private,Northeast,86.2,58.7
+T0425,P0425,D032,Simvastatin,Cholesterol,58.0,100.0,88.88,0.879,41.0,F,26.0,Medicare,,76.8,55.5
+T0426,P0426,D023,Sertraline,Depression,126.0,500.0,573.21,0.767,27.0,F,,Medicaid,West,60.1,51.8
+T0427,P0427,D022,Sertraline,Depression,39.0,500.0,549.84,0.786,,F,17.4,Private,Southwest,94.8,38.0
+T0428,P0428,D025,Gabapentin,Neuropathy,271.0,500.0,514.03,0.768,76.0,M,27.8,Medicare,West,,43.5
+T0429,P0429,D022,Aspirin,,343.0,500.0,587.93,0.743,57.0,M,23.4,Private,Southwest,43.9,35.2
+T0430,P0430,D022,Aspirin,Pain Management,261.0,250.0,259.3,1.0,48.0,M,,Medicaid,Midwest,63.7,75.9
+T0431,P0431,D049,Sertraline,Depression,306.0,250.0,259.73,0.983,30.0,F,28.5,Private,Northeast,98.8,92.6
+T0432,P0432,D042,Gabapentin,,313.0,1000.0,994.69,1.0,44.0,M,27.0,Medicare,West,62.0,70.8
+T0433,P0433,D006,Montelukast,,232.0,100.0,112.24,0.728,56.0,F,27.9,Medicare,,62.3,41.0
+T0434,P0434,D015,Sertraline,Depression,276.0,500.0,554.82,0.857,42.0,M,,Private,Midwest,43.4,44.7
+T0435,P0435,D043,Amlodipine,Hypertension,319.0,250.0,234.36,0.721,62.0,M,32.5,Medicare,West,79.2,47.1
+T0436,P0436,D037,,Hypertension,293.0,100.0,86.81,0.78,60.0,M,,Private,Southeast,79.3,58.3
+T0437,P0437,D033,Lisinopril,Hypertension,243.0,100.0,97.97,0.758,58.0,F,27.6,Medicare,Midwest,76.8,44.4
+T0438,P0438,D008,Metformin,Diabetes,229.0,250.0,230.0,0.974,38.0,M,32.4,Private,West,55.6,74.1
+T0439,P0439,D044,,Cholesterol,665.5673320419407,500.0,496.82,0.81,28.0,F,23.7,Private,,54.4,46.7
+T0440,P0440,D044,Lisinopril,Hypertension,202.0,1000.0,1123.74,0.957,35.0,M,46.11504076801019,Private,Northeast,45.6,54.3
+T0441,P0441,D005,Omeprazole,Acid Reflux,98.0,100.0,95.43,0.91,76.0,M,46.11504076801019,Public,Northeast,66.3,58.3
+T0442,P0442,D039,Metformin,Diabetes,116.0,1000.0,995.72,1.0,53.0,F,27.7,Medicare,Northeast,48.8,56.6
+T0443,P0443,D004,Lisinopril,,130.0,500.0,502.9,0.702,18.0,M,,Medicaid,,47.3,36.4
+T0444,P0444,D006,Simvastatin,,37.0,2187.073897230996,542.42,0.976,44.0,M,28.2,Private,Northeast,58.6,59.3
+T0445,P0445,D045,Aspirin,Pain Management,362.0,1000.0,775.31,0.965,47.0,M,27.2,Public,Southeast,57.7,64.7
+T0446,P0446,D032,Aspirin,Pain Management,229.0,500.0,469.66,0.753,40.0,M,22.0,Medicaid,Northeast,56.9,35.1
+T0447,P0447,D030,Montelukast,Asthma,116.0,100.0,102.11,0.951,64.0,F,28.1,Private,Midwest,72.0,55.7
+T0448,P0448,D047,Sertraline,,72.0,1000.0,1120.01,0.884,51.0,F,29.5,Medicaid,West,66.2,53.9
+T0449,P0449,D035,Amlodipine,Hypertension,138.0,500.0,475.4,0.827,64.0,M,26.7,Public,West,60.7,40.5
+T0450,P0450,D040,Aspirin,,181.0,1000.0,812.34,0.768,41.0,M,,Medicaid,Northeast,67.7,49.3
+T0451,P0451,D016,,Neuropathy,46.0,100.0,106.2,0.778,,F,21.1,,West,50.1,28.3
+T0452,P0452,D013,Lisinopril,,162.0,500.0,468.23,1.0,69.0,M,27.9,Medicaid,Northeast,,58.4
+T0453,P0453,D050,Gabapentin,Neuropathy,177.0,100.0,88.1,0.85,64.0,F,21.3,Medicaid,Northeast,67.3,41.5
+T0454,P0454,D042,Simvastatin,Cholesterol,306.0,500.0,468.78,0.928,28.0,M,21.5,Private,Southwest,42.5,56.6
+T0455,P0455,D030,Aspirin,Pain Management,261.0,250.0,245.39,0.771,41.0,F,23.5,Public,Southwest,79.9,52.0
+T0456,P0456,D019,Amlodipine,,343.0,2187.073897230996,469.76,0.772,39.0,F,,Public,Southwest,51.8,44.7
+T0457,P0457,D017,Simvastatin,Cholesterol,257.0,1000.0,779.44,0.958,52.0,F,23.8,Medicaid,Southeast,66.4,59.3
+T0458,P0458,D019,Omeprazole,Acid Reflux,168.0,500.0,544.85,0.715,55.0,F,46.11504076801019,,Southwest,82.5,41.3
+T0459,P0459,D028,Omeprazole,Acid Reflux,240.0,100.0,112.75,0.808,32.0,M,29.3,Medicaid,Northeast,78.9,67.8
+T0460,P0460,D026,Gabapentin,,57.0,100.0,106.52,0.853,46.0,M,46.11504076801019,Medicare,,,52.3
+T0461,P0461,D037,Sertraline,Depression,80.0,500.0,443.12,0.861,18.0,F,19.7,,Southwest,59.6,54.7
+T0462,P0462,D026,Metformin,Diabetes,290.0,1000.0,979.85,0.832,,F,30.6,Public,Southwest,79.2,60.2
+T0463,P0463,D023,Sertraline,,290.0,250.0,249.84,0.89,37.0,F,22.7,,Midwest,75.1,62.6
+T0464,P0464,D009,Montelukast,Asthma,37.0,1000.0,1059.88,0.919,45.0,F,25.8,Medicaid,Northeast,55.7,45.7
+T0465,P0465,D012,Sertraline,Depression,349.0,250.0,266.71,0.923,40.0,M,27.8,Medicare,Southeast,53.1,67.2
+T0466,P0466,D001,Montelukast,Asthma,167.0,100.0,92.66,0.751,,F,26.8,Public,Southwest,33.9,29.5
+T0467,P0467,D001,Montelukast,,67.0,2187.073897230996,1008.2,0.822,,F,30.4,Medicare,Midwest,67.3,67.9
+T0468,P0468,D047,Amlodipine,Hypertension,140.0,250.0,2213.670671117688,0.969,44.0,F,27.9,Medicaid,,142.82532947616758,63.2
+T0469,P0469,D034,Aspirin,,249.0,2187.073897230996,572.79,0.939,,F,22.6,Private,West,82.0,64.6
+T0470,P0470,D032,Amlodipine,Hypertension,252.0,100.0,107.05,0.713,38.0,F,34.7,Medicaid,Southeast,70.4,54.5
+T0471,P0471,D048,Montelukast,Asthma,165.0,500.0,539.45,1.329287297995702,45.0,F,,,,,50.8
+T0472,P0472,D025,Simvastatin,Cholesterol,285.0,100.0,100.84,1.329287297995702,31.0,F,,,Midwest,54.5,38.6
+T0473,P0473,D040,Omeprazole,Acid Reflux,358.0,1000.0,1141.05,0.855,56.0,M,29.9,,Midwest,82.1,70.7
+T0474,P0474,D045,Montelukast,Asthma,78.0,1000.0,1040.98,1.0,50.0,F,,Private,Southwest,57.1,58.1
+T0475,P0475,D001,Amlodipine,Hypertension,321.0,100.0,91.39,0.755,,F,27.6,Medicare,,,49.5
+T0476,P0476,D016,Simvastatin,Cholesterol,353.0,100.0,114.03,0.767,34.0,F,,Public,Southeast,43.1,59.6
+T0477,P0477,D039,Amlodipine,Hypertension,107.0,100.0,106.98,0.926,34.0,M,24.9,Private,Northeast,,61.2
+T0478,P0478,D005,Sertraline,Depression,134.0,1000.0,955.7,0.696,61.0,M,24.7,Private,Northeast,35.2,22.4
+T0479,P0479,D022,Lisinopril,Hypertension,198.0,250.0,238.01,0.787,51.0,M,,Medicare,West,61.0,49.8
+T0480,P0480,D029,Gabapentin,,246.0,500.0,514.83,1.329287297995702,21.0,F,30.3,,Midwest,71.6,77.0
+T0481,P0481,D003,Metformin,Diabetes,148.0,500.0,523.16,0.787,36.0,F,20.0,Public,Midwest,,38.5
+T0482,P0482,D012,Amlodipine,Hypertension,219.0,1000.0,1019.73,0.826,50.0,F,18.1,Medicaid,Midwest,49.2,36.6
+T0483,P0483,D026,Metformin,Diabetes,284.0,500.0,515.57,0.924,,M,46.11504076801019,Medicaid,Midwest,77.7,60.2
+T0484,P0484,D016,Levothyroxine,Thyroid,295.0,100.0,117.0,0.892,34.0,F,19.5,Medicare,Midwest,63.4,53.7
+T0485,P0485,D037,Amlodipine,,178.0,2187.073897230996,276.79,0.877,,M,24.3,Public,,57.7,64.6
+T0486,P0486,D022,Lisinopril,Hypertension,193.0,500.0,509.53,0.816,52.0,M,,Medicare,Southwest,65.6,53.4
+T0487,P0487,D029,Metformin,,169.0,250.0,273.53,0.887,26.0,M,22.4,Medicaid,Southeast,,76.2
+T0488,P0488,D014,Montelukast,Asthma,287.0,100.0,89.67,0.838,18.0,M,,Medicare,Midwest,82.3,64.3
+T0489,P0489,D028,Amlodipine,Hypertension,298.0,500.0,519.9,0.896,18.0,M,26.3,Medicare,Southwest,82.4,76.2
+T0490,P0490,D005,Aspirin,Pain Management,210.0,1000.0,1180.93,0.8,57.0,F,29.5,,Northeast,71.5,51.6
+T0491,P0491,D047,Gabapentin,Neuropathy,189.0,250.0,244.55,0.832,46.0,F,19.2,Private,West,,43.8
+T0492,P0492,D049,Lisinopril,Hypertension,317.0,100.0,91.52,0.751,41.0,M,29.3,Private,,29.1,36.0
+T0493,P0493,D030,,Diabetes,317.0,250.0,233.7,0.846,65.0,F,,Medicaid,Midwest,54.8,50.4
+T0494,P0494,D046,Lisinopril,Hypertension,255.0,500.0,445.52,0.769,54.0,F,29.8,,Midwest,,47.3
+T0495,P0495,D005,Simvastatin,Cholesterol,40.0,500.0,2213.670671117688,0.739,69.0,M,30.9,,,36.9,25.5
+T0496,P0496,D012,Gabapentin,Neuropathy,39.0,1000.0,962.95,0.876,,M,,,Southwest,,57.9
+T0497,P0497,D016,Montelukast,Asthma,300.0,100.0,85.94,0.871,44.0,F,24.6,Private,Midwest,,42.8
+T0498,P0498,D026,Amlodipine,Hypertension,302.0,100.0,100.16,0.928,20.0,F,26.4,,Southwest,64.4,75.9
+T0499,P0499,D026,,Hypertension,665.5673320419407,1000.0,1090.23,0.807,41.0,F,24.3,Medicaid,Midwest,77.3,56.9
+T0500,P0500,D048,Amlodipine,Hypertension,182.0,1000.0,909.22,0.891,41.0,F,26.0,Medicare,Northeast,81.6,70.2
+T0501,P0501,D021,Gabapentin,Neuropathy,344.0,100.0,115.19,0.905,54.0,M,32.1,Medicare,Northeast,71.2,69.6
+T0502,P0502,D039,Aspirin,Pain Management,363.0,250.0,262.77,0.894,65.0,F,20.6,Medicare,Southeast,50.5,55.4
+T0503,P0503,D036,Levothyroxine,Thyroid,153.0,250.0,275.76,0.767,54.0,M,22.6,Private,Midwest,36.0,25.9
+T0504,P0504,D033,Omeprazole,Acid Reflux,143.0,1000.0,934.22,0.865,55.0,M,31.5,Public,Midwest,,45.9
+T0505,P0505,D030,Sertraline,Depression,307.0,250.0,2213.670671117688,0.886,45.0,F,30.1,Medicaid,,46.0,41.8
+T0506,P0506,D037,Metformin,Diabetes,242.0,100.0,89.08,0.851,40.0,F,,Private,Southwest,51.7,49.3
+T0507,P0507,D023,Aspirin,Pain Management,201.0,500.0,544.51,0.641,30.0,F,29.4,Private,Midwest,62.6,46.3
+T0508,P0508,D010,Montelukast,Asthma,317.0,500.0,508.59,0.866,48.0,M,27.4,,Southeast,49.8,56.3
+T0509,P0509,D005,Metformin,Diabetes,203.0,250.0,263.83,1.0,32.0,M,32.0,Medicare,Midwest,70.1,82.8
+T0510,P0510,D036,Amlodipine,,142.0,1000.0,882.44,0.814,67.0,M,26.3,Private,Southwest,61.5,38.3
+T0511,P0511,D034,Lisinopril,Hypertension,151.0,1000.0,910.49,0.777,40.0,M,,Medicaid,Midwest,65.2,56.0
+T0512,P0512,D031,Montelukast,Asthma,61.0,1000.0,1059.72,1.329287297995702,36.0,F,36.6,,Southwest,82.1,69.0
+T0513,P0513,D010,,Diabetes,665.5673320419407,1000.0,905.17,0.881,37.0,M,28.4,Private,,47.3,51.4
+T0514,P0514,D019,Amlodipine,Hypertension,148.0,1000.0,1046.32,0.969,55.0,M,26.2,Public,West,71.3,63.5
+T0515,P0515,D032,Metformin,Diabetes,68.0,250.0,215.82,0.724,42.0,F,28.9,Public,Southwest,64.8,42.7
+T0516,P0516,D001,Lisinopril,Hypertension,297.0,500.0,542.41,0.923,35.0,M,24.5,,Southeast,60.0,64.8
+T0517,P0517,D005,Amlodipine,Hypertension,262.0,500.0,438.37,0.909,69.0,M,46.11504076801019,Medicare,West,78.3,67.3
+T0518,P0518,D045,Levothyroxine,Thyroid,47.0,250.0,263.81,0.836,32.0,F,26.7,,Midwest,78.2,61.3
+T0519,P0519,D004,Aspirin,,178.0,2187.073897230996,1062.56,0.884,45.0,M,24.9,Public,Southwest,50.8,45.9
+T0520,P0520,D016,Simvastatin,Cholesterol,178.0,250.0,232.58,0.953,54.0,M,22.7,Medicare,West,62.3,55.2
+T0521,P0521,D024,,Depression,665.5673320419407,500.0,529.1,0.937,20.0,M,30.4,,Southeast,142.82532947616758,79.3
+T0522,P0522,D016,,Neuropathy,331.0,100.0,102.6,0.736,42.0,M,29.5,Private,Southwest,60.9,49.9
+T0523,P0523,D002,Sertraline,Depression,267.0,250.0,236.53,0.932,29.0,F,24.0,Public,West,73.8,76.9
+T0524,P0524,D049,Montelukast,,164.0,1000.0,899.14,1.329287297995702,57.0,M,28.3,,West,69.2,52.1
+T0525,P0525,D028,Sertraline,Depression,180.0,500.0,401.87,0.857,30.0,F,20.0,Private,West,92.5,66.7
+T0526,P0526,D032,Amlodipine,Hypertension,265.0,500.0,517.48,0.857,55.0,M,26.7,Public,Northeast,42.0,38.1
+T0527,P0527,D027,,Thyroid,665.5673320419407,500.0,421.76,1.329287297995702,61.0,F,27.8,,Midwest,63.2,47.0
+T0528,P0528,D020,Simvastatin,Cholesterol,232.0,500.0,504.77,0.969,57.0,F,32.8,Private,Southwest,51.4,60.6
+T0529,P0529,D024,Aspirin,Pain Management,285.0,1000.0,973.66,0.842,34.0,F,22.9,Private,Southwest,74.1,58.1
+T0530,P0530,D012,Aspirin,,115.0,100.0,106.79,0.738,41.0,M,20.9,,Southwest,40.7,24.6
+T0531,P0531,D050,Lisinopril,Hypertension,179.0,500.0,484.9,0.811,36.0,M,22.4,Medicaid,West,70.2,54.0
+T0532,P0532,D035,Gabapentin,,264.0,2187.073897230996,2213.670671117688,0.868,67.0,M,20.7,Public,,,38.3
+T0533,P0533,D033,Metformin,Diabetes,51.0,100.0,107.32,0.973,34.0,F,46.11504076801019,,Southeast,54.0,64.4
+T0534,P0534,D033,Levothyroxine,Thyroid,314.0,500.0,516.75,0.91,29.0,M,,Medicare,Southwest,43.3,66.0
+T0535,P0535,D043,Metformin,Diabetes,298.0,100.0,103.16,0.765,,M,27.3,,,142.82532947616758,42.5
+T0536,P0536,D037,Simvastatin,Cholesterol,287.0,250.0,261.73,1.0,33.0,M,30.9,Private,Midwest,81.3,85.6
+T0537,P0537,D012,Sertraline,Depression,58.0,500.0,423.22,0.876,34.0,M,26.5,Medicaid,Northeast,64.6,53.2
+T0538,P0538,D003,Aspirin,Pain Management,242.0,250.0,268.92,0.978,,F,,,Southwest,74.4,78.1
+T0539,P0539,D001,Simvastatin,,312.0,1000.0,1061.25,0.835,64.0,F,24.7,Medicare,,90.0,67.5
+T0540,P0540,D033,Sertraline,,79.0,500.0,449.17,0.903,43.0,M,24.8,Private,,69.0,54.5
+T0541,P0541,D040,Aspirin,Pain Management,124.0,500.0,487.8,0.934,48.0,M,19.8,Private,Midwest,56.6,48.3
+T0542,P0542,D010,,Depression,117.0,500.0,498.03,0.972,59.0,M,27.1,Medicare,Southeast,72.0,62.3
+T0543,P0543,D043,,Neuropathy,73.0,500.0,493.28,0.956,52.0,F,25.8,Medicare,Northeast,56.8,53.0
+T0544,P0544,D044,Levothyroxine,Thyroid,307.0,1000.0,1033.39,0.937,42.0,M,29.0,Medicare,Midwest,57.4,68.2
+T0545,P0545,D029,Montelukast,Asthma,200.0,500.0,571.57,0.818,42.0,F,,Public,,42.2,43.6
+T0546,P0546,D013,Simvastatin,Cholesterol,218.0,100.0,110.82,0.793,52.0,F,25.3,Private,West,78.9,51.1
+T0547,P0547,D012,Simvastatin,Cholesterol,213.0,500.0,434.39,0.883,,M,22.5,Private,West,142.82532947616758,41.6
+T0548,P0548,D031,,Acid Reflux,32.0,1000.0,1062.21,0.943,54.0,M,26.3,Private,Southeast,67.7,58.8
+T0549,P0549,D046,,Hypertension,665.5673320419407,500.0,566.45,0.828,37.0,M,,Medicare,Southeast,49.5,53.0
+T0550,P0550,D002,Gabapentin,Neuropathy,147.0,100.0,103.87,0.957,30.0,F,21.4,Medicare,Southeast,71.5,69.5
+T0551,P0551,D050,Gabapentin,Neuropathy,48.0,1000.0,1109.1,0.995,23.0,F,26.3,Medicare,West,142.82532947616758,69.1
+T0552,P0552,D035,Metformin,,52.0,1000.0,1201.23,0.758,54.0,M,26.9,Medicare,West,62.9,35.9
+T0553,P0553,D023,Sertraline,Depression,59.0,100.0,110.24,0.766,53.0,F,23.1,Medicaid,Northeast,,41.5
+T0554,P0554,D017,Amlodipine,Hypertension,324.0,100.0,102.49,0.836,53.0,M,,Medicare,Southwest,76.9,57.7
+T0555,P0555,D026,Levothyroxine,Thyroid,137.0,100.0,110.45,1.329287297995702,43.0,M,26.9,,Southwest,64.7,59.0
+T0556,P0556,D008,Levothyroxine,Thyroid,310.0,100.0,101.45,0.798,66.0,F,21.5,Medicaid,Northeast,38.5,29.6
+T0557,P0557,D029,Gabapentin,Neuropathy,157.0,100.0,100.24,0.985,37.0,F,46.11504076801019,Medicaid,Southwest,100.0,84.7
+T0558,P0558,D026,Levothyroxine,Thyroid,258.0,1000.0,964.86,0.892,59.0,F,46.11504076801019,Medicare,West,91.2,58.1
+T0559,P0559,D010,Omeprazole,Acid Reflux,140.0,1000.0,1156.34,0.854,44.0,F,30.3,Private,Southwest,,59.1
+T0560,P0560,D026,Simvastatin,Cholesterol,165.0,500.0,459.08,0.706,35.0,M,35.4,,West,53.7,49.3
+T0561,P0561,D034,Lisinopril,Hypertension,215.0,500.0,576.62,0.718,54.0,M,22.6,Private,Northeast,,35.8
+T0562,P0562,D041,Montelukast,,173.0,2187.073897230996,262.5,0.878,51.0,M,28.1,Medicare,Southeast,56.8,48.2
+T0563,P0563,D007,Metformin,,101.0,500.0,430.03,0.637,50.0,F,23.1,Medicare,Northeast,84.0,35.6
+T0564,P0564,D004,Sertraline,Depression,158.0,500.0,2213.670671117688,0.951,46.0,M,30.2,Private,,68.9,68.8
+T0565,P0565,D050,Montelukast,,290.0,100.0,79.0,0.834,,F,20.9,,West,53.2,41.3
+T0566,P0566,D045,Sertraline,Depression,32.0,100.0,106.26,1.0,80.0,F,27.9,Private,Southwest,57.9,49.6
+T0567,P0567,D011,Aspirin,,133.0,500.0,2213.670671117688,1.0,,F,22.5,,,81.8,60.9
+T0568,P0568,D029,Montelukast,Asthma,253.0,250.0,235.19,0.832,55.0,M,25.2,Public,Southeast,89.0,63.2
+T0569,P0569,D036,Lisinopril,Hypertension,349.0,100.0,101.24,0.839,46.0,F,21.9,Private,,87.9,61.4
+T0570,P0570,D025,,Neuropathy,39.0,500.0,597.71,0.95,60.0,F,29.3,Medicare,Southeast,76.4,57.2
+T0571,P0571,D021,Omeprazole,Acid Reflux,331.0,500.0,474.71,1.0,52.0,F,22.7,Medicare,West,61.2,61.4
+T0572,P0572,D036,Simvastatin,Cholesterol,260.0,1000.0,894.11,0.686,45.0,F,,Public,West,142.82532947616758,20.8
+T0573,P0573,D010,Simvastatin,Cholesterol,248.0,250.0,287.04,0.671,40.0,F,46.11504076801019,Private,Southeast,69.5,40.8
+T0574,P0574,D037,Omeprazole,Acid Reflux,95.0,1000.0,1196.26,0.788,43.0,F,25.5,Medicare,Northeast,65.0,44.6
+T0575,P0575,D009,Amlodipine,Hypertension,141.0,250.0,250.09,0.908,18.0,F,26.6,Public,West,67.1,70.3
+T0576,P0576,D024,Aspirin,,42.0,100.0,110.11,0.9,48.0,F,23.0,Medicare,Northeast,65.8,48.7
+T0577,P0577,D035,Sertraline,,115.0,250.0,283.54,0.957,37.0,F,26.8,Public,West,45.1,55.2
+T0578,P0578,D049,,Hypertension,263.0,500.0,462.88,0.73,68.0,F,32.1,Public,West,73.4,41.1
+T0579,P0579,D035,Levothyroxine,Thyroid,119.0,500.0,475.73,0.618,45.0,F,22.9,,Midwest,74.5,32.9
+T0580,P0580,D048,Montelukast,Asthma,343.0,250.0,280.77,0.936,27.0,F,30.7,,Southwest,75.2,82.0
+T0581,P0581,D036,Aspirin,Pain Management,83.0,250.0,292.13,0.767,44.0,M,32.0,Private,Southwest,79.2,60.5
+T0582,P0582,D018,Montelukast,Asthma,41.0,250.0,264.07,0.648,29.0,M,22.7,,Northeast,74.1,35.5
+T0583,P0583,D049,Lisinopril,,238.0,1000.0,912.02,0.865,52.0,F,20.2,Public,Southwest,58.8,39.1
+T0584,P0584,D039,,Diabetes,665.5673320419407,250.0,299.68,0.929,49.0,F,27.2,Medicare,Northeast,63.9,56.7
+T0585,P0585,D032,Metformin,Diabetes,150.0,100.0,94.69,0.838,59.0,F,46.11504076801019,Medicare,West,,44.7
+T0586,P0586,D024,Aspirin,Pain Management,49.0,1000.0,2213.670671117688,1.329287297995702,33.0,M,,,,66.6,55.5
+T0587,P0587,D023,Gabapentin,Neuropathy,104.0,1000.0,1034.23,0.834,45.0,M,,Medicaid,Midwest,80.0,51.9
+T0588,P0588,D032,Lisinopril,,272.0,250.0,288.85,0.813,24.0,M,22.8,,West,74.7,66.3
+T0589,P0589,D037,,Hypertension,252.0,100.0,108.54,0.715,55.0,F,21.4,,Southeast,142.82532947616758,52.7
+T0590,P0590,D012,,Acid Reflux,99.0,1000.0,1041.49,0.779,52.0,F,30.4,Medicaid,Southeast,98.1,54.1
+T0591,P0591,D049,Gabapentin,Neuropathy,341.0,500.0,2213.670671117688,0.902,52.0,F,23.7,Private,,66.2,56.4
+T0592,P0592,D013,Sertraline,Depression,240.0,1000.0,1004.35,0.882,45.0,F,26.2,,Northeast,7.5,36.2
+T0593,P0593,D023,Sertraline,Depression,130.0,250.0,263.95,0.867,51.0,M,29.8,Medicare,Midwest,83.6,61.7
+T0594,P0594,D025,Levothyroxine,Thyroid,215.0,100.0,74.7,1.329287297995702,69.0,F,24.1,,Southwest,56.9,28.5
+T0595,P0595,D035,Simvastatin,Cholesterol,161.0,250.0,242.58,0.832,40.0,M,25.8,Private,West,53.0,46.3
+T0596,P0596,D041,Metformin,,140.0,500.0,512.07,0.632,47.0,M,25.9,Private,Midwest,59.0,25.8
+T0597,P0597,D030,Sertraline,Depression,161.0,500.0,442.45,0.868,28.0,F,,Public,,58.3,55.8
+T0598,P0598,D017,Gabapentin,Neuropathy,49.0,500.0,519.32,0.993,31.0,M,28.4,,Northeast,,76.9
+T0599,P0599,D049,Lisinopril,,53.0,250.0,244.89,0.703,,M,25.1,,,41.6,18.9
+T0600,P0600,D020,Sertraline,Depression,256.0,1000.0,1175.55,0.791,61.0,M,26.3,Public,Southwest,48.8,37.2
+T0601,P0601,D048,,Hypertension,665.5673320419407,250.0,289.33,0.883,41.0,M,24.5,Public,West,70.1,60.9
+T0602,P0602,D025,Sertraline,Depression,322.0,100.0,2213.670671117688,0.975,41.0,F,20.1,Medicaid,,74.3,63.8
+T0603,P0603,D022,Metformin,Diabetes,259.0,1000.0,2213.670671117688,0.805,38.0,F,27.0,Public,,74.6,57.1
+T0604,P0604,D013,,Asthma,339.0,500.0,496.3,0.781,36.0,M,33.6,Medicaid,Midwest,53.2,61.3
+T0605,P0605,D019,Sertraline,Depression,231.0,250.0,238.71,0.653,49.0,F,22.5,,West,50.3,26.7
+T0606,P0606,D049,Gabapentin,Neuropathy,67.0,500.0,509.75,0.86,22.0,M,22.9,,Midwest,57.4,51.2
+T0607,P0607,D036,Sertraline,,289.0,500.0,462.09,1.0,64.0,F,22.5,Private,Southwest,68.6,63.2
+T0608,P0608,D012,Simvastatin,Cholesterol,217.0,100.0,88.69,0.878,35.0,F,28.9,,Southeast,87.3,77.2
+T0609,P0609,D041,Metformin,Diabetes,86.0,1000.0,1062.27,0.848,55.0,F,46.11504076801019,,Midwest,34.3,34.5
+T0610,P0610,D019,Gabapentin,,49.0,100.0,2213.670671117688,0.882,,F,25.4,Private,,61.7,55.2
+T0611,P0611,D012,Omeprazole,Acid Reflux,302.0,100.0,91.96,0.849,55.0,F,22.3,Private,West,45.0,38.4
+T0612,P0612,D009,Gabapentin,Neuropathy,148.0,100.0,2213.670671117688,0.769,55.0,M,26.4,Private,,40.2,30.7
+T0613,P0613,D007,Simvastatin,Cholesterol,100.0,500.0,468.42,0.932,50.0,F,19.7,Medicaid,Midwest,79.5,55.3
+T0614,P0614,D028,Montelukast,Asthma,33.0,100.0,102.53,0.873,30.0,M,26.6,,Midwest,73.2,63.6
+T0615,P0615,D014,Metformin,Diabetes,250.0,100.0,108.2,0.852,48.0,M,46.11504076801019,Medicaid,Northeast,71.7,56.4
+T0616,P0616,D031,Omeprazole,,43.0,1000.0,996.64,0.752,27.0,F,21.0,,Midwest,78.8,44.3
+T0617,P0617,D019,,Cholesterol,32.0,1000.0,1045.47,0.98,41.0,M,19.9,Medicare,Southeast,57.8,52.4
+T0618,P0618,D047,Simvastatin,Cholesterol,245.0,100.0,94.84,0.916,60.0,F,32.3,Medicare,Northeast,142.82532947616758,57.0
+T0619,P0619,D016,Aspirin,,258.0,1000.0,980.35,0.795,56.0,M,23.6,Public,Midwest,97.8,56.7
+T0620,P0620,D005,Metformin,Diabetes,215.0,1000.0,979.41,0.95,,M,30.5,Medicaid,Midwest,61.3,60.9
+T0621,P0621,D035,,Neuropathy,665.5673320419407,100.0,92.53,0.8,30.0,F,46.11504076801019,Medicaid,West,76.0,56.2
+T0622,P0622,D012,Lisinopril,Hypertension,283.0,500.0,491.16,0.772,54.0,F,,,Northeast,65.1,44.8
+T0623,P0623,D025,Montelukast,Asthma,53.0,100.0,84.51,0.774,45.0,F,27.8,Medicaid,,37.3,33.5
+T0624,P0624,D021,Lisinopril,Hypertension,191.0,1000.0,950.88,0.673,18.0,F,22.5,,West,,31.0
+T0625,P0625,D036,Gabapentin,,187.0,500.0,485.76,0.897,56.0,M,26.5,Private,West,56.3,49.1
+T0626,P0626,D023,,Neuropathy,665.5673320419407,250.0,243.6,0.667,44.0,F,24.5,Medicaid,Southwest,80.8,44.2
+T0627,P0627,D016,Metformin,Diabetes,188.0,500.0,487.93,0.727,63.0,M,20.7,Public,West,76.8,31.3
+T0628,P0628,D039,Gabapentin,Neuropathy,217.0,1000.0,993.82,0.642,,M,27.3,Medicare,Southeast,,51.9
+T0629,P0629,D045,Aspirin,Pain Management,89.0,500.0,523.97,0.841,18.0,M,24.9,,Midwest,50.2,47.7
+T0630,P0630,D042,Omeprazole,Acid Reflux,334.0,100.0,108.75,1.329287297995702,49.0,M,25.4,,Southwest,89.2,62.7
+T0631,P0631,D039,Gabapentin,Neuropathy,348.0,250.0,233.76,0.817,49.0,M,21.2,Public,West,50.5,38.4
+T0632,P0632,D014,Lisinopril,Hypertension,240.0,250.0,219.92,0.746,19.0,M,32.4,Medicare,Midwest,68.2,66.4
+T0633,P0633,D031,Gabapentin,,181.0,2187.073897230996,223.95,0.733,30.0,F,29.5,Public,Northeast,64.8,52.1
+T0634,P0634,D005,Aspirin,Pain Management,138.0,1000.0,2213.670671117688,0.896,86.0,M,29.9,,,62.4,42.1
+T0635,P0635,D035,Sertraline,Depression,105.0,1000.0,964.81,0.795,40.0,M,,Private,,85.1,52.6
+T0636,P0636,D023,,Depression,665.5673320419407,250.0,230.75,0.882,55.0,M,19.1,Private,Southeast,54.4,35.1
+T0637,P0637,D029,Simvastatin,Cholesterol,343.0,500.0,435.19,0.761,35.0,F,33.8,,Midwest,44.8,50.9
+T0638,P0638,D043,Montelukast,Asthma,146.0,250.0,238.6,0.868,54.0,F,25.8,,Midwest,,65.3
+T0639,P0639,D011,Levothyroxine,Thyroid,221.0,500.0,509.07,0.98,42.0,M,23.0,Private,Southwest,142.82532947616758,58.2
+T0640,P0640,D018,Omeprazole,Acid Reflux,48.0,500.0,529.75,0.909,41.0,F,27.7,Public,Northeast,100.0,77.3
+T0641,P0641,D047,Amlodipine,Hypertension,202.0,1000.0,944.26,0.809,39.0,M,30.7,Medicare,Northeast,75.1,57.2
+T0642,P0642,D012,Simvastatin,Cholesterol,257.0,500.0,2213.670671117688,0.876,43.0,F,25.9,,,142.82532947616758,53.2
+T0643,P0643,D009,Montelukast,Asthma,212.0,250.0,226.83,0.826,48.0,M,31.1,Medicaid,Midwest,49.2,53.5
+T0644,P0644,D010,Sertraline,Depression,142.0,1000.0,996.86,0.851,42.0,F,30.3,Medicare,Midwest,36.8,43.5
+T0645,P0645,D044,Lisinopril,Hypertension,212.0,100.0,91.52,0.817,26.0,F,21.7,Medicare,Southeast,49.6,43.4
+T0646,P0646,D017,Amlodipine,,175.0,100.0,105.73,0.834,52.0,F,23.3,,Northeast,66.7,47.1
+T0647,P0647,D038,Montelukast,Asthma,348.0,1000.0,821.41,0.871,18.0,M,29.8,Medicare,Southeast,,83.2
+T0648,P0648,D007,Montelukast,Asthma,145.0,250.0,241.01,0.751,18.0,M,16.0,Medicare,,81.8,48.9
+T0649,P0649,D046,Simvastatin,Cholesterol,142.0,100.0,103.01,0.748,56.0,M,,,West,68.4,36.3
+T0650,P0650,D013,Amlodipine,,280.0,100.0,101.84,0.711,52.0,F,20.3,Medicare,Southeast,60.2,40.6
+T0651,P0651,D040,Metformin,Diabetes,280.0,500.0,2213.670671117688,0.69,44.0,F,24.1,Public,,,41.4
+T0652,P0652,D042,,Thyroid,332.0,500.0,517.49,0.728,24.0,M,46.11504076801019,Medicare,Southwest,57.2,45.0
+T0653,P0653,D009,Metformin,Diabetes,342.0,250.0,224.9,0.866,34.0,F,24.6,Medicaid,Midwest,90.8,78.2
+T0654,P0654,D050,Amlodipine,,147.0,1000.0,990.45,0.761,41.0,M,23.8,Private,Southwest,62.2,43.8
+T0655,P0655,D027,Metformin,Diabetes,330.0,250.0,205.59,0.901,21.0,M,21.6,Medicaid,,63.7,64.3
+T0656,P0656,D002,Aspirin,Pain Management,190.0,1000.0,991.94,0.853,33.0,M,35.2,Private,Northeast,31.8,50.1
+T0657,P0657,D005,Sertraline,Depression,227.0,100.0,91.67,0.653,54.0,M,33.5,,Southeast,62.1,41.9
+T0658,P0658,D029,Aspirin,Pain Management,289.0,500.0,545.77,0.915,66.0,F,,Private,Midwest,77.5,53.7
+T0659,P0659,D037,Gabapentin,Neuropathy,177.0,250.0,236.26,0.931,38.0,F,32.3,Private,Midwest,49.0,56.7
+T0660,P0660,D038,,Diabetes,665.5673320419407,250.0,247.08,0.751,56.0,F,24.4,Private,Northeast,53.7,40.7
+T0661,P0661,D019,Gabapentin,Neuropathy,76.0,1000.0,936.44,0.892,,M,26.5,Private,West,76.9,69.1
+T0662,P0662,D008,,Hypertension,227.0,1000.0,1173.89,0.764,54.0,F,25.7,Public,Southwest,42.9,37.1
+T0663,P0663,D048,Omeprazole,Acid Reflux,76.0,250.0,241.97,1.329287297995702,32.0,M,23.4,,Southwest,80.9,64.0
+T0664,P0664,D045,Lisinopril,Hypertension,107.0,1000.0,1183.26,0.724,49.0,M,29.9,Private,Midwest,142.82532947616758,35.7
+T0665,P0665,D001,Amlodipine,Hypertension,153.0,250.0,270.35,0.671,41.0,M,26.5,Medicaid,Southeast,59.2,38.8
+T0666,P0666,D022,Montelukast,Asthma,104.0,250.0,262.05,1.329287297995702,64.0,M,24.1,,Southeast,48.1,28.1
+T0667,P0667,D017,Sertraline,Depression,166.0,250.0,259.22,0.838,31.0,M,,Private,West,70.7,48.9
+T0668,P0668,D007,Metformin,Diabetes,119.0,100.0,103.94,0.81,54.0,M,22.4,Medicaid,Southeast,,55.1
+T0669,P0669,D025,Simvastatin,Cholesterol,354.0,1000.0,807.23,0.732,40.0,F,19.4,Public,Southwest,76.7,49.4
+T0670,P0670,D045,Omeprazole,,90.0,500.0,486.06,0.81,42.0,F,26.0,,Southeast,,40.7
+T0671,P0671,D004,Levothyroxine,Thyroid,167.0,500.0,542.26,0.877,,F,21.2,Private,West,82.0,58.1
+T0672,P0672,D036,Levothyroxine,Thyroid,79.0,1000.0,995.11,0.846,32.0,F,24.9,Medicare,Southwest,60.2,54.7
+T0673,P0673,D006,Levothyroxine,,288.0,250.0,214.87,0.868,44.0,M,31.5,,Southeast,,73.7
+T0674,P0674,D031,Metformin,Diabetes,136.0,500.0,497.38,0.783,,M,30.8,Medicare,Southwest,77.1,54.3
+T0675,P0675,D019,Levothyroxine,Thyroid,142.0,500.0,585.21,0.967,,F,25.9,Public,Midwest,20.9,42.6
+T0676,P0676,D044,Aspirin,Pain Management,283.0,1000.0,1124.69,0.732,46.0,F,25.7,Medicaid,Midwest,,38.6
+T0677,P0677,D039,Omeprazole,Acid Reflux,147.0,500.0,496.9,0.899,56.0,F,33.5,Medicaid,Midwest,79.2,59.1
+T0678,P0678,D027,,Pain Management,665.5673320419407,250.0,273.79,0.968,,F,,Public,Southeast,67.3,64.0
+T0679,P0679,D010,,,80.0,1000.0,963.35,0.898,29.0,F,46.11504076801019,,West,49.6,53.3
+T0680,P0680,D026,Omeprazole,,274.0,250.0,207.4,0.83,58.0,F,20.3,Public,Southwest,55.5,38.5
+T0681,P0681,D019,Aspirin,,64.0,500.0,453.78,1.329287297995702,27.0,F,27.6,,Northeast,142.82532947616758,43.1
+T0682,P0682,D039,Omeprazole,Acid Reflux,331.0,500.0,578.14,0.954,53.0,F,29.3,Private,Midwest,63.7,64.4
+T0683,P0683,D003,Montelukast,Asthma,98.0,250.0,243.15,0.708,54.0,M,23.5,Medicaid,,98.2,47.9
+T0684,P0684,D045,Gabapentin,Neuropathy,349.0,100.0,97.57,0.753,,M,27.2,,Northeast,77.1,62.7
+T0685,P0685,D013,Metformin,,78.0,2187.073897230996,485.01,0.81,46.0,M,24.5,Medicaid,Northeast,97.9,60.7
+T0686,P0686,D050,Metformin,Diabetes,103.0,100.0,119.04,0.974,37.0,M,25.3,Medicare,Southeast,78.2,75.6
+T0687,P0687,D028,,Thyroid,665.5673320419407,500.0,581.3,0.888,33.0,F,16.0,Public,Southwest,80.4,56.2
+T0688,P0688,D020,Lisinopril,Hypertension,290.0,100.0,122.19,1.329287297995702,65.0,M,25.1,,Midwest,94.6,50.2
+T0689,P0689,D028,Levothyroxine,Thyroid,99.0,100.0,98.41,0.819,35.0,F,29.9,Public,West,142.82532947616758,56.5
+T0690,P0690,D008,Amlodipine,Hypertension,119.0,100.0,102.96,0.789,32.0,M,23.5,,Southeast,62.2,47.4
+T0691,P0691,D041,Aspirin,Pain Management,289.0,250.0,212.08,0.779,65.,F,26.2,Public,Southeast,80.5,53.9
+T0692,P0692,D039,,,155.0,2187.073897230996,114.77,0.948,55.0,F,23.0,Medicare,West,86.8,64.8
+T0693,P0693,D001,Lisinopril,,260.0,100.0,88.32,0.713,,M,27.4,Medicare,West,57.8,45.1
+T0694,P0694,D003,Montelukast,Asthma,324.0,100.0,2213.670671117688,1.0,62.0,M,25.1,Public,,54.2,59.3
+T0695,P0695,D013,Amlodipine,Hypertension,158.0,500.0,445.13,0.933,52.0,F,22.2,Medicare,,67.1,48.8
+T0696,P0696,D028,Montelukast,Asthma,309.0,100.0,94.11,0.959,18.0,F,31.3,,Midwest,77.5,91.4
+T0697,P0697,D049,Metformin,,342.0,500.0,458.14,0.804,37.0,F,29.7,,Northeast,77.0,69.0
+T0698,P0698,D025,Metformin,,129.0,100.0,93.92,0.835,36.0,M,23.6,Medicaid,Midwest,43.6,43.8
+T0699,P0699,D033,Levothyroxine,,355.0,2187.073897230996,94.61,0.707,52.0,M,28.0,Medicare,Northeast,,59.1
+T0700,P0700,D038,Aspirin,Pain Management,326.0,250.0,236.29,0.798,18.0,F,28.1,Medicaid,Southwest,142.82532947616758,62.1
+T0701,P0701,D006,Lisinopril,Hypertension,211.0,500.0,541.67,0.899,83.0,M,28.6,Public,Midwest,61.0,46.8
+T0702,P0702,D044,Sertraline,Depression,203.0,100.0,88.95,0.98,52.0,F,19.2,,Southeast,51.5,54.4
+T0703,P0703,D045,Amlodipine,Hypertension,345.0,500.0,511.03,0.739,47.0,M,30.0,,Midwest,100.0,64.9
+T0704,P0704,D032,Amlodipine,Hypertension,217.0,500.0,560.9,0.813,62.0,M,23.7,Public,,142.82532947616758,46.4
+T0705,P0705,D045,Levothyroxine,,86.0,1000.0,948.68,1.329287297995702,80.0,M,46.11504076801019,,Midwest,52.2,27.2
+T0706,P0706,D047,Metformin,Diabetes,60.0,250.0,232.05,0.71,58.0,M,46.11504076801019,,Southwest,78.0,48.5
+T0707,P0707,D021,Levothyroxine,Thyroid,113.0,250.0,244.24,0.909,59.0,M,,Medicare,Northeast,76.5,52.7
+T0708,P0708,D016,Omeprazole,Acid Reflux,181.0,250.0,279.49,0.778,46.0,F,24.5,Medicare,Southeast,62.2,42.5
+T0709,P0709,D021,Lisinopril,Hypertension,65.0,1000.0,1019.41,0.83,42.0,F,17.2,Public,Northeast,77.6,42.7
+T0710,P0710,D011,Aspirin,,242.0,1000.0,946.88,0.805,37.0,M,46.11504076801019,Public,Northeast,52.6,52.9
+T0711,P0711,D037,Gabapentin,Neuropathy,135.0,250.0,262.1,0.771,32.0,F,20.6,Medicare,West,57.6,37.8
+T0712,P0712,D036,Simvastatin,,249.0,1000.0,889.77,0.849,34.0,F,,Medicaid,,34.8,40.1
+T0713,P0713,D035,Simvastatin,,192.0,1000.0,1068.14,0.828,24.0,M,24.7,Public,,45.1,48.2
+T0714,P0714,D019,,Thyroid,249.0,1000.0,1040.86,0.813,43.0,F,31.7,Public,Southwest,92.1,71.2
+T0715,P0715,D020,Omeprazole,Acid Reflux,299.0,250.0,242.3,0.777,19.0,M,29.1,,Northeast,89.6,70.5
+T0716,P0716,D018,Lisinopril,Hypertension,149.0,250.0,229.04,0.882,47.0,F,25.4,,Northeast,66.0,49.7
+T0717,P0717,D047,Sertraline,Depression,211.0,250.0,227.83,1.0,44.0,F,27.2,Medicare,Southwest,89.9,81.2
+T0718,P0718,D041,Simvastatin,Cholesterol,135.0,1000.0,1053.48,0.864,47.0,F,,,Northeast,62.6,46.2
+T0719,P0719,D049,Lisinopril,Hypertension,246.0,250.0,280.72,0.95,37.0,F,26.6,Medicare,Northeast,61.3,68.9
+T0720,P0720,D014,Aspirin,Pain Management,234.0,1000.0,936.27,0.711,90.0,F,26.3,Medicare,Southeast,65.8,25.6
+T0721,P0721,D015,Montelukast,Asthma,99.0,100.0,104.58,0.866,65.0,F,46.11504076801019,,,63.1,48.8
+T0722,P0722,D031,Omeprazole,Acid Reflux,73.0,1000.0,791.3,0.74,26.0,F,29.9,Medicaid,,61.8,54.3
+T0723,P0723,D001,Metformin,Diabetes,358.0,500.0,470.77,0.702,48.0,M,28.0,Medicare,West,82.2,53.2
+T0724,P0724,D003,Lisinopril,Hypertension,330.0,250.0,249.22,0.776,,M,24.6,Public,Midwest,67.3,52.9
+T0725,P0725,D016,Aspirin,Pain Management,257.0,250.0,227.26,0.969,29.0,M,29.0,Medicare,Southeast,75.7,82.7
+T0726,P0726,D023,Sertraline,,213.0,500.0,453.17,0.945,24.0,M,25.6,Medicaid,West,80.5,78.9
+T0727,P0727,D011,Gabapentin,Neuropathy,136.0,1000.0,933.22,0.874,51.0,F,21.7,Private,West,70.8,49.0
+T0728,P0728,D012,Metformin,Diabetes,113.0,100.0,102.92,0.697,34.0,F,24.4,Medicaid,Southeast,142.82532947616758,37.5
+T0729,P0729,D010,Gabapentin,,279.0,2187.073897230996,490.63,0.83,65.0,F,26.3,Medicare,Northeast,44.7,39.1
+T0730,P0730,D032,Sertraline,,50.0,500.0,388.09,0.88,,M,29.6,Private,West,67.2,51.0
+T0731,P0731,D016,Aspirin,Pain Management,225.0,1000.0,787.93,0.868,,M,,Medicare,Northeast,62.4,45.9
+T0732,P0732,D008,Simvastatin,Cholesterol,207.0,250.0,234.83,1.329287297995702,32.0,M,21.2,,West,66.3,35.7
+T0733,P0733,D038,Gabapentin,,36.0,1000.0,1045.77,0.761,52.0,F,26.2,Private,Southwest,64.8,38.3
+T0734,P0734,D012,Metformin,,99.0,500.0,362.62,0.844,54.0,M,26.5,Private,Midwest,100.0,66.8
+T0735,P0735,D024,Levothyroxine,Thyroid,156.0,500.0,475.01,0.904,37.0,F,,Medicare,West,45.0,53.1
+T0736,P0736,D028,Amlodipine,Hypertension,189.0,250.0,236.84,0.63,33.0,M,29.7,Medicare,Southwest,35.2,29.0
+T0737,P0737,D008,,Hypertension,665.5673320419407,250.0,284.71,0.834,69.0,F,30.1,Medicaid,Southeast,70.0,50.9
+T0738,P0738,D028,Simvastatin,,232.0,2187.073897230996,240.37,0.864,,M,,Medicare,Southwest,59.4,50.4
+T0739,P0739,D036,Gabapentin,,177.0,2187.073897230996,1038.3,0.935,54.0,F,,Private,Southeast,69.7,58.4
+T0740,P0740,D026,,Asthma,665.5673320419407,250.0,253.53,0.919,32.0,M,21.8,Public,,73.8,65.4
+T0741,P0741,D008,,Hypertension,228.0,500.0,393.47,0.908,26.0,M,28.8,Public,,84.3,78.0
+T0742,P0742,D050,Levothyroxine,Thyroid,183.0,500.0,538.41,0.77,36.0,F,31.8,Medicaid,Southwest,,46.3
+T0743,P0743,D028,Sertraline,Depression,171.0,100.0,102.15,0.659,43.0,F,24.7,Medicare,Midwest,56.6,32.9
+T0744,P0744,D028,Amlodipine,,342.0,1000.0,1050.83,0.811,29.0,M,25.0,Medicaid,Northeast,71.4,59.9
+T0745,P0745,D037,Aspirin,,194.0,2187.073897230996,139.26,0.95,44.0,F,31.9,,Northeast,76.6,74.5
+T0746,P0746,D041,Levothyroxine,,343.0,500.0,395.79,0.989,19.0,M,28.0,Public,Midwest,97.9,91.6
+T0747,P0747,D036,Levothyroxine,,50.0,100.0,117.25,0.921,28.0,F,27.7,Medicare,,79.3,71.9
+T0748,P0748,D027,Sertraline,Depression,111.0,500.0,485.63,0.893,55.0,M,21.2,,West,64.1,47.1
+T0749,P0749,D017,Omeprazole,Acid Reflux,98.0,100.0,102.87,0.888,54.0,F,28.7,Medicare,West,,49.1
+T0750,P0750,D009,Sertraline,Depression,160.0,250.0,248.86,1.329287297995702,39.0,M,22.3,,Southwest,56.5,41.0
+T0751,P0751,D033,Omeprazole,Acid Reflux,116.0,100.0,95.76,0.837,76.0,M,21.5,,Southwest,56.1,48.4
+T0752,P0752,D020,Omeprazole,Acid Reflux,247.0,250.0,235.75,1.0,,M,24.6,Medicaid,,74.8,81.7
+T0753,P0753,D013,,,334.0,250.0,258.24,0.756,39.0,F,23.7,Public,Southwest,68.9,55.0
+T0754,P0754,D028,Simvastatin,Cholesterol,190.0,1000.0,848.28,1.0,54.0,M,25.1,,West,45.1,52.7
+T0755,P0755,D048,Metformin,Diabetes,207.0,250.0,268.76,0.818,,F,,Private,Southwest,,37.1
+T0756,P0756,D029,Gabapentin,Neuropathy,146.0,250.0,239.6,0.983,,F,29.8,Medicaid,Northeast,142.82532947616758,80.0
+T0757,P0757,D013,Gabapentin,Neuropathy,225.0,100.0,88.7,0.709,27.0,F,30.5,Public,Southeast,142.82532947616758,52.1
+T0758,P0758,D046,Aspirin,Pain Management,356.0,500.0,477.5,0.909,49.0,M,18.2,Medicare,Southeast,73.5,56.6
+T0759,P0759,D035,Gabapentin,Neuropathy,115.0,1000.0,1125.71,0.776,32.0,F,29.9,Medicaid,West,70.7,60.3
+T0760,P0760,D006,Simvastatin,,318.0,250.0,236.62,0.708,37.0,F,22.8,Public,Southwest,89.4,58.4
+T0761,P0761,D018,,Diabetes,665.5673320419407,1000.0,1035.85,0.872,64.0,F,29.4,Public,Northeast,68.5,51.4
+T0762,P0762,D005,Metformin,Diabetes,181.0,100.0,92.69,0.951,57.0,M,25.7,Private,Southwest,59.2,49.9
+T0763,P0763,D047,Omeprazole,Acid Reflux,90.0,250.0,268.95,0.766,47.0,F,26.1,Public,Midwest,51.3,35.7
+T0764,P0764,D025,,Depression,90.0,100.0,106.86,0.7,25.0,F,25.3,Medicare,Southwest,,44.4
+T0765,P0765,D002,Aspirin,Pain Management,57.0,1000.0,1184.86,0.841,48.0,F,30.8,,,28.4,36.5
+T0766,P0766,D010,Omeprazole,Acid Reflux,72.0,100.0,98.24,1.329287297995702,56.0,F,21.0,,Southwest,,34.2
+T0767,P0767,D030,Sertraline,Depression,198.0,1000.0,1066.87,0.905,39.0,M,28.4,Medicaid,Southeast,61.9,59.0
+T0768,P0768,D050,Gabapentin,Neuropathy,115.0,100.0,100.98,0.945,65.0,M,30.4,Medicaid,Northeast,44.5,40.7
+T0769,P0769,D045,Omeprazole,Acid Reflux,206.0,1000.0,1129.59,1.329287297995702,64.0,F,28.9,,,51.1,45.7
+T0770,P0770,D005,Lisinopril,Hypertension,46.0,500.0,464.06,1.0,69.0,F,35.3,Medicare,Midwest,77.1,66.7
+T0771,P0771,D033,Gabapentin,Neuropathy,127.0,100.0,107.45,0.872,,F,23.9,,Northeast,68.5,51.5
+T0772,P0772,D001,Sertraline,,227.0,100.0,98.05,0.815,53.0,F,29.8,Medicaid,Northeast,66.5,52.8
+T0773,P0773,D018,Aspirin,Pain Management,127.0,500.0,496.79,0.689,66.0,M,25.6,Private,Southeast,69.6,27.4
+T0774,P0774,D032,Sertraline,,94.0,500.0,504.59,0.824,51.0,M,30.9,Public,Southeast,66.4,47.9
+T0775,P0775,D047,Omeprazole,Acid Reflux,359.0,100.0,102.52,0.816,37.0,M,26.0,,Southeast,83.6,64.3
+T0776,P0776,D049,Omeprazole,Acid Reflux,34.0,500.0,494.19,0.946,38.0,M,24.4,Medicaid,West,66.9,57.0
+T0777,P0777,D011,Levothyroxine,Thyroid,31.0,250.0,255.37,0.896,48.0,F,31.2,Public,Southwest,43.1,47.8
+T0778,P0778,D021,Aspirin,Pain Management,51.0,1000.0,1157.81,0.732,25.0,F,24.0,Private,Northeast,89.5,53.6
+T0779,P0779,D026,Montelukast,Asthma,141.0,1000.0,2213.670671117688,0.867,42.0,M,20.3,,,70.6,56.1
+T0780,P0780,D025,Gabapentin,Neuropathy,86.0,1000.0,1086.92,0.917,61.0,M,46.11504076801019,Public,Southwest,,46.3
+T0781,P0781,D022,Metformin,Diabetes,95.0,250.0,238.61,1.329287297995702,,F,28.5,,Southeast,46.2,70.7
+T0782,P0782,D027,Aspirin,Pain Management,359.0,500.0,455.54,0.939,68.0,F,31.6,Private,Southwest,142.82532947616758,65.1
+T0783,P0783,D049,Metformin,,127.0,500.0,547.77,0.926,61.0,F,26.4,,,63.2,55.6
+T0784,P0784,D013,Aspirin,Pain Management,173.0,100.0,108.76,0.856,38.0,F,31.3,,Northeast,88.6,71.8
+T0785,P0785,D033,Aspirin,Pain Management,154.0,500.0,573.63,0.889,,F,20.6,Medicaid,Midwest,59.8,44.2
+T0786,P0786,D034,Sertraline,Depression,196.0,100.0,93.96,0.975,45.0,M,24.2,Medicare,West,52.4,57.3
+T0787,P0787,D041,,,115.0,250.0,244.26,0.717,,M,24.8,,Southwest,78.4,39.0
+T0788,P0788,D035,Levothyroxine,,105.0,1000.0,836.05,0.815,59.0,F,,Public,West,78.9,49.7
+T0789,P0789,D001,Montelukast,Asthma,323.0,1000.0,960.75,0.773,23.0,F,26.3,Medicare,West,67.5,59.5
+T0790,P0790,D021,Omeprazole,Acid Reflux,88.0,1000.0,1099.66,0.888,,M,28.8,Medicaid,West,75.1,56.4
+T0791,P0791,D048,Amlodipine,Hypertension,167.0,500.0,476.68,0.973,,F,,,West,,64.7
+T0792,P0792,D006,Metformin,Diabetes,128.0,100.0,106.4,0.79,46.0,M,26.6,Public,Northeast,68.5,50.0
+T0793,P0793,D028,Omeprazole,Acid Reflux,221.0,100.0,98.09,0.611,34.0,M,25.8,,Southwest,82.5,44.3
+T0794,P0794,D017,Amlodipine,Hypertension,272.0,250.0,258.1,0.809,71.0,M,22.3,Medicaid,Midwest,74.4,37.6
+T0795,P0795,D005,Montelukast,Asthma,348.0,500.0,2213.670671117688,0.941,60.0,M,25.5,Public,,62.5,57.8
+T0796,P0796,D031,Montelukast,Asthma,78.0,250.0,252.13,0.904,33.0,F,25.4,Public,Midwest,85.3,69.9
+T0797,P0797,D005,Metformin,Diabetes,61.0,100.0,70.09,0.893,24.0,F,25.3,Medicaid,Northeast,29.5,49.8
+T0798,P0798,D038,Metformin,Diabetes,306.0,100.0,98.13,0.822,39.0,M,,,Northeast,95.8,67.5
+T0799,P0799,D003,Montelukast,Asthma,49.0,1000.0,836.95,0.722,51.0,F,26.3,Medicare,Southeast,39.4,22.8
+T0800,P0800,D023,Amlodipine,Hypertension,183.0,500.0,560.3,0.902,48.0,F,24.3,,West,55.6,49.2
+T0801,P0801,D037,Aspirin,Pain Management,97.0,100.0,107.77,0.767,63.0,F,,Medicare,Southeast,64.4,44.8
+T0802,P0802,D037,Gabapentin,Neuropathy,243.0,1000.0,1046.67,1.0,56.0,F,21.3,Medicaid,Midwest,62.8,57.6
+T0803,P0803,D010,Lisinopril,Hypertension,172.0,500.0,576.05,1.329287297995702,59.0,M,23.1,,Southwest,80.1,53.4
+T0804,P0804,D010,Omeprazole,Acid Reflux,261.0,250.0,226.28,0.792,49.0,F,37.1,Private,Southeast,142.82532947616758,54.7
+T0805,P0805,D019,Sertraline,Depression,242.0,500.0,587.37,0.789,24.0,M,21.8,Medicaid,Northeast,68.9,54.2
+T0806,P0806,D017,Omeprazole,Acid Reflux,108.0,500.0,546.61,0.841,42.0,M,20.6,Private,West,56.3,38.1
+T0807,P0807,D021,Sertraline,,243.0,100.0,97.63,0.826,60.0,F,,,Midwest,69.4,49.3
+T0808,P0808,D014,Amlodipine,Hypertension,145.0,100.0,111.36,0.962,44.0,M,,,Northeast,64.0,57.9
+T0809,P0809,D009,Sertraline,Depression,121.0,500.0,444.69,0.869,52.0,F,25.1,Medicaid,Southwest,66.4,50.8
+T0810,P0810,D046,Metformin,Diabetes,299.0,100.0,91.75,0.777,40.0,F,34.6,Private,West,56.8,57.7
+T0811,P0811,D001,,Neuropathy,665.5673320419407,100.0,93.91,1.0,29.0,M,19.8,Medicaid,,57.3,62.4
+T0812,P0812,D045,Gabapentin,,87.0,2187.073897230996,94.71,0.855,43.0,F,18.1,Private,Southwest,69.3,45.9
+T0813,P0813,D013,Metformin,Diabetes,313.0,1000.0,894.34,0.927,49.0,M,20.0,Medicaid,West,79.2,63.1
+T0814,P0814,D004,Levothyroxine,Thyroid,55.0,1000.0,1122.31,0.789,35.0,M,29.6,Private,West,,48.4
+T0815,P0815,D001,Amlodipine,,95.0,500.0,487.06,0.886,41.0,F,30.5,,Southwest,,54.3
+T0816,P0816,D049,Levothyroxine,Thyroid,277.0,100.0,103.53,0.881,30.0,F,23.9,Medicare,Midwest,74.2,69.2
+T0817,P0817,D040,Levothyroxine,Thyroid,283.0,1000.0,942.96,0.661,61.0,F,28.7,Medicaid,West,,35.7
+T0818,P0818,D032,Omeprazole,Acid Reflux,73.0,500.0,408.97,1.0,65.,M,31.6,Private,Northeast,77.5,73.7
+T0819,P0819,D034,Montelukast,Asthma,126.0,100.0,102.7,0.979,,F,33.1,,Southeast,51.4,53.8
+T0820,P0820,D028,,Acid Reflux,71.0,250.0,202.19,0.81,67.0,M,25.0,,Midwest,38.3,18.5
+T0821,P0821,D031,Montelukast,Asthma,256.0,100.0,99.31,0.74,54.0,M,16.8,Medicaid,West,57.0,38.8
+T0822,P0822,D008,Lisinopril,Hypertension,291.0,100.0,2213.670671117688,0.885,29.0,F,,,,53.5,59.5
+T0823,P0823,D039,Sertraline,Depression,196.0,1000.0,1198.73,0.859,18.0,F,24.3,Medicare,Midwest,63.8,60.4
+T0824,P0824,D026,Montelukast,Asthma,308.0,500.0,545.57,0.886,22.0,F,25.0,,Southeast,55.4,62.9
+T0825,P0825,D034,Metformin,Diabetes,118.0,500.0,505.29,0.869,,M,25.2,Private,Southwest,76.1,63.7
+T0826,P0826,D003,,,207.0,1000.0,1126.37,0.901,65.0,F,30.5,,Northeast,60.7,57.3
+T0827,P0827,D050,Amlodipine,Hypertension,226.0,100.0,91.54,0.995,46.0,M,31.1,Medicaid,West,67.3,69.0
+T0828,P0828,D012,Sertraline,Depression,336.0,250.0,263.59,0.907,50.0,F,25.3,,,67.4,61.3
+T0829,P0829,D001,Lisinopril,Hypertension,296.0,100.0,102.0,0.745,18.0,F,30.4,Public,Northeast,67.9,63.7
+T0830,P0830,D044,Montelukast,Asthma,297.0,100.0,102.64,0.986,27.0,M,27.4,Medicaid,Midwest,,79.4
+T0831,P0831,D005,Lisinopril,Hypertension,103.0,250.0,2213.670671117688,1.0,58.0,M,46.11504076801019,Medicare,,72.7,62.1
+T0832,P0832,D030,Amlodipine,,37.0,1000.0,1073.25,1.0,49.0,F,29.6,Private,Southwest,53.1,53.6
+T0833,P0833,D030,Levothyroxine,Thyroid,326.0,500.0,514.44,1.329287297995702,,F,26.3,,Midwest,86.0,57.9
+T0834,P0834,D017,Gabapentin,Neuropathy,193.0,1000.0,2213.670671117688,0.874,53.0,F,34.2,,,61.5,56.5
+T0835,P0835,D048,Amlodipine,Hypertension,114.0,1000.0,904.0,0.642,69.0,F,20.2,Public,Southeast,45.3,8.2
+T0836,P0836,D047,Simvastatin,Cholesterol,101.0,100.0,98.77,0.905,41.0,F,23.9,Medicaid,Northeast,67.8,60.3
+T0837,P0837,D023,,Hypertension,665.5673320419407,500.0,504.67,0.795,46.0,M,25.5,,,52.2,33.5
+T0838,P0838,D015,Lisinopril,Hypertension,76.0,500.0,443.49,1.0,47.0,M,27.8,Medicaid,West,142.82532947616758,66.4
+T0839,P0839,D037,Metformin,Diabetes,267.0,1000.0,1241.17,0.773,80.0,M,31.1,Medicaid,Midwest,98.1,53.6
+T0840,P0840,D021,Omeprazole,Acid Reflux,133.0,250.0,287.91,0.681,18.0,M,25.9,,Southwest,53.2,41.0
+T0841,P0841,D014,Metformin,Diabetes,239.0,1000.0,1060.21,0.803,55.0,F,20.3,,Southeast,70.0,45.0
+T0842,P0842,D002,Lisinopril,Hypertension,71.0,250.0,251.8,0.652,43.0,M,29.4,Medicare,,38.7,24.1
+T0843,P0843,D011,Omeprazole,Acid Reflux,345.0,500.0,489.39,0.925,53.0,M,29.0,Public,Southeast,71.8,68.8
+T0844,P0844,D039,Simvastatin,Cholesterol,297.0,1000.0,904.81,0.643,35.0,M,18.2,Medicaid,,51.7,26.3
+T0845,P0845,D038,Gabapentin,Neuropathy,292.0,100.0,100.77,0.853,44.0,F,26.0,Public,Southwest,55.6,53.3
+T0846,P0846,D034,Sertraline,Depression,288.0,1000.0,1025.78,0.642,,M,19.6,Private,,48.5,21.9
+T0847,P0847,D038,Lisinopril,Hypertension,312.0,500.0,437.91,0.818,,F,23.3,Medicare,West,76.0,36.2
+T0848,P0848,D050,Montelukast,Asthma,143.0,100.0,103.34,1.0,57.0,M,22.4,Medicaid,Southwest,80.1,65.6
+T0849,P0849,D034,Lisinopril,Hypertension,69.0,100.0,98.45,0.886,32.0,F,29.2,Private,Midwest,65.4,61.7
+T0850,P0850,D018,Lisinopril,Hypertension,249.0,250.0,202.3,0.764,38.0,M,26.5,Private,West,52.0,47.8
+T0851,P0851,D030,Omeprazole,,158.0,2187.073897230996,91.4,0.847,38.0,F,20.9,Medicare,Southeast,88.8,59.8
+T0852,P0852,D015,Aspirin,Pain Management,37.0,100.0,95.86,0.852,18.0,M,29.5,Medicaid,Southwest,53.7,59.3
+T0853,P0853,D027,Amlodipine,,130.0,1000.0,1188.77,0.897,40.0,F,20.3,Medicare,West,32.6,36.6
+T0854,P0854,D034,Aspirin,Pain Management,205.0,500.0,527.83,0.713,55.0,F,27.3,,Southwest,71.9,41.9
+T0855,P0855,D038,Simvastatin,,136.0,2187.073897230996,216.61,0.909,,M,22.7,Public,Southwest,48.4,54.6
+T0856,P0856,D033,Montelukast,Asthma,130.0,1000.0,1048.6,0.58,60.0,F,24.5,,Southwest,79.8,28.4
+T0857,P0857,D024,Gabapentin,,289.0,2187.073897230996,84.53,0.787,52.0,F,28.0,Medicare,Southeast,,43.9
+T0858,P0858,D015,Levothyroxine,Thyroid,275.0,100.0,110.83,0.801,33.0,M,28.1,Public,West,74.1,66.8
+T0859,P0859,D030,,,665.5673320419407,250.0,238.22,0.913,42.0,M,31.3,,Northeast,86.0,73.4
+T0860,P0860,D042,Levothyroxine,Thyroid,61.0,500.0,2213.670671117688,0.852,68.0,F,25.7,Medicare,,,29.8
+T0861,P0861,D017,Levothyroxine,,166.0,2187.073897230996,283.14,0.709,56.0,M,27.2,Medicaid,Southeast,56.5,32.9
+T0862,P0862,D005,Gabapentin,Neuropathy,41.0,1000.0,871.28,0.752,45.0,M,24.2,Medicaid,Southeast,63.9,38.9
+T0863,P0863,D029,Metformin,Diabetes,331.0,250.0,215.07,0.87,41.0,M,26.7,Private,Southwest,88.1,76.7
+T0864,P0864,D004,Aspirin,Pain Management,45.0,100.0,2213.670671117688,0.842,46.0,F,27.8,Medicaid,,55.1,39.9
+T0865,P0865,D010,Lisinopril,Hypertension,158.0,1000.0,1103.84,0.792,37.0,F,25.6,Medicaid,West,142.82532947616758,44.5
+T0866,P0866,D017,,,92.0,100.0,84.81,0.802,,F,18.8,Medicare,Midwest,72.2,46.6
+T0867,P0867,D010,Levothyroxine,,138.0,500.0,358.39,0.92,75.0,F,,,Midwest,56.3,43.3
+T0868,P0868,D017,Montelukast,,50.0,100.0,95.49,0.798,47.0,F,27.5,Medicare,Northeast,67.3,47.0
+T0869,P0869,D020,Simvastatin,Cholesterol,187.0,100.0,105.52,0.841,,F,23.3,Private,Midwest,41.7,41.4
+T0870,P0870,D024,Metformin,,298.0,2187.073897230996,280.01,1.329287297995702,44.0,F,20.9,,Midwest,98.2,80.3
+T0871,P0871,D005,Levothyroxine,Thyroid,191.0,100.0,95.37,0.708,33.0,M,,Medicare,Northeast,44.8,45.5
+T0872,P0872,D034,Metformin,Diabetes,289.0,1000.0,958.86,0.665,42.0,F,28.0,,Northeast,60.2,42.7
+T0873,P0873,D006,Metformin,Diabetes,131.0,1000.0,1115.39,0.928,21.0,F,25.1,Medicaid,,64.5,65.6
+T0874,P0874,D002,Levothyroxine,Thyroid,252.0,500.0,406.51,0.782,79.0,M,21.5,Private,West,93.7,39.9
+T0875,P0875,D013,Omeprazole,Acid Reflux,88.0,1000.0,961.15,0.818,26.0,M,22.7,Medicaid,Midwest,45.1,43.3
+T0876,P0876,D043,Amlodipine,Hypertension,276.0,250.0,254.76,0.772,29.0,M,31.2,Public,Southwest,,70.3
+T0877,P0877,D043,Montelukast,Asthma,157.0,500.0,522.46,0.824,38.0,F,26.6,Private,Southwest,76.4,62.2
+T0878,P0878,D048,Lisinopril,Hypertension,312.0,1000.0,949.02,1.0,,M,23.8,Public,Southwest,71.3,62.6
+T0879,P0879,D011,,Hypertension,354.0,250.0,250.86,0.93,45.0,F,28.0,,Southeast,50.2,64.0
+T0880,P0880,D047,Montelukast,Asthma,54.0,1000.0,751.17,0.936,26.0,F,22.7,,Southwest,,63.5
+T0881,P0881,D023,Omeprazole,Acid Reflux,160.0,1000.0,934.18,0.708,63.0,F,32.0,Public,West,54.1,34.8
+T0882,P0882,D016,Lisinopril,,225.0,100.0,104.54,0.735,55.0,M,31.4,Public,,84.0,55.1
+T0883,P0883,D031,,Diabetes,665.5673320419407,1000.0,901.77,0.566,53.0,M,24.1,Medicare,Southeast,50.4,19.9
+T0884,P0884,D011,Gabapentin,Neuropathy,183.0,1000.0,1005.9,0.769,55.0,F,23.5,,Southwest,63.3,37.3
+T0885,P0885,D016,Simvastatin,,162.0,250.0,261.17,0.946,80.0,F,16.0,Public,Midwest,56.7,33.6
+T0886,P0886,D008,Aspirin,,256.0,250.0,241.44,0.902,77.0,F,20.1,Medicaid,Northeast,50.2,31.3
+T0887,P0887,D004,Lisinopril,Hypertension,218.0,100.0,101.7,0.828,34.0,M,20.6,,Midwest,,52.6
+T0888,P0888,D040,Montelukast,Asthma,294.0,1000.0,903.73,0.848,69.0,F,26.5,Private,Midwest,73.0,54.3
+T0889,P0889,D004,Gabapentin,Neuropathy,163.0,100.0,97.93,0.781,50.0,M,24.7,Public,Southeast,83.1,53.4
+T0890,P0890,D025,Levothyroxine,Thyroid,240.0,1000.0,1061.02,0.87,,F,46.11504076801019,,Southeast,38.3,36.1
+T0891,P0891,D003,Amlodipine,Hypertension,89.0,500.0,507.85,0.927,19.0,M,,Medicare,Southeast,,78.3
+T0892,P0892,D032,Montelukast,,242.0,500.0,470.67,0.688,42.0,F,28.0,Medicare,West,100.0,59.2
+T0893,P0893,D003,Metformin,,245.0,100.0,102.24,0.88,,M,28.1,Public,,58.2,65.6
+T0894,P0894,D027,Amlodipine,Hypertension,255.0,100.0,107.15,0.943,57.0,M,18.4,Private,Northeast,93.4,64.2
+T0895,P0895,D029,Simvastatin,Cholesterol,160.0,100.0,79.5,0.808,61.0,M,25.5,Public,Southeast,61.1,37.0
+T0896,P0896,D032,Simvastatin,Cholesterol,105.0,250.0,278.98,0.92,18.0,M,20.5,Medicaid,Southwest,44.4,57.7
+T0897,P0897,D050,Omeprazole,Acid Reflux,315.0,250.0,2213.670671117688,1.0,,M,29.6,,,60.4,75.1
+T0898,P0898,D019,Sertraline,,306.0,250.0,260.64,0.84,61.0,M,29.1,Private,West,80.7,59.6
+T0899,P0899,D021,,Acid Reflux,665.5673320419407,100.0,111.97,0.889,42.0,F,22.4,Medicaid,Southeast,52.4,50.3
+T0900,P0900,D005,Gabapentin,Neuropathy,277.0,1000.0,862.83,0.776,,F,22.9,Public,West,56.0,36.9
+T0901,P0901,D018,,Hypertension,665.5673320419407,500.0,464.53,0.868,50.0,F,24.2,,Southeast,73.9,59.1
+T0902,P0902,D028,,Depression,665.5673320419407,100.0,97.11,0.896,50.0,F,46.11504076801019,Public,,65.0,40.0
+T0903,P0903,D042,Levothyroxine,Thyroid,192.0,250.0,230.41,0.869,40.0,M,27.3,Private,Northeast,73.8,59.6
+T0904,P0904,D022,Metformin,Diabetes,209.0,250.0,293.37,0.748,45.0,F,46.11504076801019,Private,Southwest,68.6,55.8
+T0905,P0905,D021,Amlodipine,Hypertension,63.0,100.0,91.43,0.871,28.0,M,29.9,,West,72.2,64.7
+T0906,P0906,D006,Omeprazole,,70.0,100.0,94.44,0.996,76.0,M,21.6,Private,Midwest,58.5,51.5
+T0907,P0907,D001,Aspirin,Pain Management,336.0,250.0,255.11,0.895,45.0,M,23.5,Private,,68.5,56.8
+T0908,P0908,D005,Sertraline,Depression,343.0,1000.0,879.79,0.946,42.0,F,20.0,Public,Southeast,51.1,60.1
+T0909,P0909,D041,Sertraline,Depression,104.0,250.0,240.11,0.826,38.0,M,22.0,Private,Northeast,84.3,59.4
+T0910,P0910,D012,Metformin,Diabetes,308.0,250.0,257.94,0.925,40.0,F,,Private,Southeast,55.5,55.5
+T0911,P0911,D026,Lisinopril,Hypertension,205.0,100.0,96.67,0.878,60.0,F,30.0,Medicare,Southeast,,60.9
+T0912,P0912,D046,Simvastatin,Cholesterol,179.0,1000.0,990.66,0.755,39.0,F,23.2,,Southwest,61.5,45.4
+T0913,P0913,D034,Simvastatin,Cholesterol,302.0,250.0,236.77,0.882,24.0,F,,Medicare,Northeast,68.0,75.4
+T0914,P0914,D049,Aspirin,Pain Management,354.0,250.0,212.14,0.751,,F,24.5,Medicare,Midwest,57.6,42.8
+T0915,P0915,D014,Gabapentin,Neuropathy,137.0,500.0,516.08,0.787,41.0,M,20.9,Medicare,Southeast,49.8,41.6
+T0916,P0916,D026,Gabapentin,Neuropathy,168.0,100.0,117.55,0.869,45.0,M,46.11504076801019,Public,Northeast,38.8,39.0
+T0917,P0917,D045,Levothyroxine,Thyroid,300.0,500.0,500.92,0.88,69.0,F,28.4,Public,,49.2,42.5
+T0918,P0918,D027,Amlodipine,,318.0,500.0,511.26,1.329287297995702,44.0,M,21.2,,Southeast,60.1,36.4
+T0919,P0919,D009,Montelukast,Asthma,241.0,250.0,267.32,0.955,49.0,F,29.2,Medicaid,,68.2,68.6
+T0920,P0920,D026,Lisinopril,Hypertension,301.0,100.0,87.31,0.907,27.0,M,22.6,Medicare,Southwest,80.2,72.7
+T0921,P0921,D047,Omeprazole,,95.0,2187.073897230996,1170.25,0.78,41.0,M,24.1,Public,Southeast,58.3,40.3
+T0922,P0922,D022,Montelukast,,277.0,250.0,255.06,0.696,,M,28.1,Private,Southeast,51.8,37.2
+T0923,P0923,D047,Montelukast,Asthma,185.0,1000.0,1163.19,0.836,21.0,M,23.3,Medicaid,Northeast,,52.3
+T0924,P0924,D030,,,665.5673320419407,2187.073897230996,926.7,0.805,48.0,M,26.2,Public,Southeast,72.2,43.8
+T0925,P0925,D043,Aspirin,,230.0,100.0,118.18,0.861,46.0,M,24.7,Private,Midwest,,61.6
+T0926,P0926,D048,Simvastatin,Cholesterol,177.0,500.0,538.76,0.814,45.0,M,26.5,Private,Southeast,142.82532947616758,61.2
+T0927,P0927,D017,Levothyroxine,Thyroid,153.0,100.0,105.53,0.649,60.0,M,16.5,Public,West,75.6,22.0
+T0928,P0928,D026,Gabapentin,Neuropathy,30.0,1000.0,1023.4,0.811,50.0,M,18.7,Medicaid,,74.6,37.5
+T0929,P0929,D036,Aspirin,Pain Management,276.0,250.0,243.79,0.819,67.0,M,28.5,Public,Northeast,90.5,61.5
+T0930,P0930,D001,Sertraline,Depression,157.0,1000.0,1120.05,0.913,30.0,M,30.1,,Midwest,70.0,66.9
+T0931,P0931,D008,Omeprazole,,220.0,2187.073897230996,253.51,0.78,47.0,M,22.4,,West,,47.0
+T0932,P0932,D049,Levothyroxine,Thyroid,96.0,250.0,200.82,1.0,46.0,M,25.0,Public,West,60.2,60.9
+T0933,P0933,D035,Sertraline,Depression,33.0,100.0,88.83,0.659,28.0,F,27.2,Public,Southeast,44.6,28.8
+T0934,P0934,D015,Simvastatin,Cholesterol,332.0,1000.0,981.42,0.981,59.0,M,28.8,Medicaid,,54.7,63.9
+T0935,P0935,D047,Simvastatin,Cholesterol,323.0,500.0,515.5,0.828,79.0,M,17.9,Medicaid,Southwest,64.9,31.5
+T0936,P0936,D022,Simvastatin,,172.0,1000.0,994.34,0.936,44.0,M,22.5,,Midwest,65.9,61.4
+T0937,P0937,D014,Aspirin,Pain Management,220.0,1000.0,1121.9,0.858,52.0,M,24.7,Private,Southwest,93.9,63.5
+T0938,P0938,D026,,Pain Management,665.5673320419407,500.0,2213.670671117688,0.964,46.0,M,46.11504076801019,Private,,142.82532947616758,64.1
+T0939,P0939,D028,Gabapentin,Neuropathy,256.0,100.0,101.44,0.811,34.0,M,36.0,Private,Southeast,142.82532947616758,77.0
+T0940,P0940,D023,Gabapentin,Neuropathy,342.0,1000.0,818.2,0.74,18.0,F,25.1,Medicare,Southeast,58.5,53.3
+T0941,P0941,D014,Omeprazole,Acid Reflux,146.0,1000.0,2213.670671117688,0.992,34.0,F,20.4,Medicare,,60.3,55.0
+T0942,P0942,D024,Levothyroxine,Thyroid,331.0,250.0,247.64,0.839,24.0,F,27.6,Medicaid,Northeast,45.1,58.5
+T0943,P0943,D002,Metformin,,171.0,1000.0,1041.96,0.872,70.0,M,31.3,Medicare,West,53.9,45.3
+T0944,P0944,D045,Metformin,Diabetes,68.0,500.0,456.81,0.973,43.0,M,26.4,,Southeast,72.9,66.9
+T0945,P0945,D026,Sertraline,Depression,281.0,250.0,281.99,0.747,39.0,M,,Public,West,65.1,45.0
+T0946,P0946,D014,Simvastatin,Cholesterol,362.0,100.0,110.42,0.91,58.0,F,29.8,Medicare,Southeast,,67.7
+T0947,P0947,D007,,Thyroid,665.5673320419407,250.0,2213.670671117688,0.791,28.0,M,28.7,Medicare,,67.7,66.0
+T0948,P0948,D003,Montelukast,Asthma,239.0,500.0,493.52,0.837,33.0,M,21.9,Private,,59.7,47.5
+T0949,P0949,D047,Aspirin,Pain Management,144.0,500.0,528.99,0.857,46.0,F,46.11504076801019,Medicare,Southwest,,70.5
+T0950,P0950,D023,Amlodipine,Hypertension,254.0,250.0,232.33,0.7,60.0,F,30.0,Medicaid,Northeast,63.6,37.9
+T0951,P0951,D046,Lisinopril,Hypertension,163.0,100.0,108.56,0.772,52.0,M,30.7,,Southwest,82.4,54.8
+T0952,P0952,D043,Omeprazole,Acid Reflux,280.0,250.0,291.24,0.985,48.0,M,25.7,,West,59.0,62.7
+T0953,P0953,D047,Simvastatin,Cholesterol,248.0,100.0,110.71,0.939,46.0,M,24.6,Medicaid,,75.6,63.5
+T0954,P0954,D045,Simvastatin,Cholesterol,120.0,250.0,231.76,0.844,51.0,M,46.11504076801019,,West,78.9,61.3
+T0955,P0955,D018,Simvastatin,Cholesterol,75.0,500.0,518.07,1.329287297995702,48.0,F,21.2,,Northeast,68.1,51.0
+T0956,P0956,D038,Aspirin,Pain Management,67.0,1000.0,870.69,0.821,,M,46.11504076801019,Public,West,29.7,40.4
+T0957,P0957,D035,Aspirin,Pain Management,171.0,1000.0,1057.24,0.986,45.0,M,20.5,Public,,65.3,59.3
+T0958,P0958,D015,Lisinopril,Hypertension,129.0,100.0,104.51,0.83,28.0,F,,Medicaid,Southwest,83.5,66.6
+T0959,P0959,D025,Montelukast,Asthma,357.0,100.0,81.3,0.873,46.0,M,25.0,Medicaid,Midwest,72.9,63.9
+T0960,P0960,D037,Levothyroxine,Thyroid,219.0,100.0,88.38,0.965,37.0,M,,Medicaid,Southwest,71.7,81.9
+T0961,P0961,D028,Simvastatin,Cholesterol,64.0,500.0,485.84,0.772,,F,28.0,Medicaid,Southeast,39.2,16.5
+T0962,P0962,D010,Metformin,Diabetes,176.0,250.0,242.48,1.0,44.0,F,21.1,Medicaid,Southeast,54.2,55.3
+T0963,P0963,D039,Gabapentin,Neuropathy,59.0,500.0,439.53,0.697,23.0,M,31.7,Medicaid,Northeast,71.2,51.9
+T0964,P0964,D017,Metformin,Diabetes,363.0,1000.0,2213.670671117688,1.0,42.0,F,32.2,Public,,71.2,80.8
+T0965,P0965,D039,Sertraline,Depression,113.0,100.0,102.51,0.813,52.0,F,,Medicaid,West,83.2,49.1
+T0966,P0966,D022,Metformin,,310.0,250.0,245.14,0.826,,M,23.0,Medicare,Southwest,62.8,41.7
+T0967,P0967,D026,Sertraline,,299.0,2187.073897230996,924.42,0.661,,F,24.8,Public,,71.1,42.7
+T0968,P0968,D044,Amlodipine,Hypertension,183.0,1000.0,1104.87,0.805,,M,26.6,,Midwest,65.2,54.9
+T0969,P0969,D025,Gabapentin,,131.0,1000.0,1165.54,0.746,57.0,M,23.2,Public,Northeast,50.2,29.9
+T0970,P0970,D017,Metformin,Diabetes,244.0,500.0,475.82,0.789,24.0,M,32.8,Private,Southeast,31.2,46.5
+T0971,P0971,D013,Amlodipine,Hypertension,179.0,100.0,93.88,1.329287297995702,38.0,M,26.6,,Northeast,71.5,57.1
+T0972,P0972,D020,Omeprazole,Acid Reflux,112.0,1000.0,1049.12,0.946,41.0,F,16.0,,West,67.6,55.8
+T0973,P0973,D025,,Thyroid,665.5673320419407,100.0,96.42,0.871,,M,27.4,Medicaid,Southeast,55.7,47.5
+T0974,P0974,D004,,,665.5673320419407,500.0,493.03,0.881,55.0,M,,Medicaid,Northeast,40.7,38.5
+T0975,P0975,D010,Levothyroxine,Thyroid,230.0,1000.0,1073.97,0.74,,M,,Public,Southwest,74.4,54.0
+T0976,P0976,D003,Metformin,Diabetes,313.0,500.0,404.53,0.762,40.0,M,24.5,Medicaid,West,,51.1
+T0977,P0977,D041,Montelukast,Asthma,202.0,500.0,565.92,1.0,,F,29.2,Medicare,Midwest,73.4,70.0
+T0978,P0978,D045,Amlodipine,Hypertension,356.0,100.0,100.73,0.776,47.0,F,30.5,,Northeast,,69.7
+T0979,P0979,D018,Gabapentin,Neuropathy,235.0,1000.0,958.85,1.0,46.0,F,27.1,Public,West,32.9,55.5
+T0980,P0980,D047,Metformin,,92.0,500.0,2213.670671117688,0.826,51.0,M,24.6,Public,,142.82532947616758,33.7
+T0981,P0981,D036,Simvastatin,Cholesterol,102.0,1000.0,996.24,0.85,57.0,F,25.8,,Midwest,61.9,46.5
+T0982,P0982,D047,Aspirin,Pain Management,280.0,100.0,82.69,0.957,50.0,F,26.1,Medicaid,Midwest,86.8,75.9
+T0983,P0983,D022,Amlodipine,,153.0,2187.073897230996,2213.670671117688,0.977,51.0,M,22.8,Medicaid,,40.5,45.4
+T0984,P0984,D034,Gabapentin,Neuropathy,150.0,100.0,100.41,0.839,,F,28.3,Public,Northeast,94.0,80.0
+T0985,P0985,D047,Omeprazole,Acid Reflux,304.0,1000.0,1044.3,0.811,45.0,M,,Public,Midwest,67.0,59.4
+T0986,P0986,D008,,Cholesterol,665.5673320419407,1000.0,2213.670671117688,0.844,52.0,F,,Private,,63.6,54.8
+T0987,P0987,D040,Omeprazole,Acid Reflux,346.0,100.0,89.79,0.884,55.0,F,31.0,Private,West,62.0,59.6
+T0988,P0988,D049,Metformin,Diabetes,193.0,250.0,261.84,0.939,34.0,F,23.3,,Midwest,,57.0
+T0989,P0989,D044,Aspirin,Pain Management,315.0,500.0,486.62,0.85,35.0,F,29.3,Public,West,80.7,71.6
+T0990,P0990,D019,Amlodipine,Hypertension,294.0,1000.0,1084.68,0.912,65.0,M,22.2,Medicaid,Southeast,49.0,55.7
+T0991,P0991,D042,Amlodipine,Hypertension,349.0,1000.0,787.28,1.0,53.0,M,28.8,Medicaid,Southeast,70.2,72.4
+T0992,P0992,D041,Montelukast,Asthma,190.0,500.0,495.05,0.888,60.0,F,23.9,Private,Midwest,,39.6
+T0993,P0993,D037,Montelukast,Asthma,337.0,100.0,2213.670671117688,0.881,38.0,M,21.9,Medicare,,53.6,57.3
+T0994,P0994,D006,Metformin,Diabetes,118.0,100.0,2213.670671117688,0.698,58.0,F,27.1,Medicaid,,100.0,50.3
+T0995,P0995,D026,Metformin,Diabetes,171.0,100.0,104.7,0.587,46.0,F,16.0,Medicare,Midwest,142.82532947616758,20.5
+T0996,P0996,D034,Aspirin,Pain Management,232.0,250.0,232.31,0.889,43.0,F,19.0,,West,74.2,58.0
+T0997,P0997,D045,Montelukast,Asthma,338.0,250.0,232.2,0.841,41.0,F,25.3,Public,Midwest,142.82532947616758,69.9
+T0998,P0998,D006,,Neuropathy,256.0,1000.0,988.93,0.799,56.0,F,,Public,West,43.7,29.0
+T0999,P0999,D037,Gabapentin,Neuropathy,363.0,100.0,91.03,0.874,49.0,F,24.5,,Southeast,91.3,70.7
