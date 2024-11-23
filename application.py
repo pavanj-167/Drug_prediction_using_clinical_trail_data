@@ -38,9 +38,10 @@ st.title("Drug Efficacy Score Prediction")
 # Collect user input for new patient data
 st.header("Enter New Patient Data:")
 
-# Select drug and category
-drug_name = st.selectbox("Drug Name", list(drug_name_mapping.keys()))
-drug_category = st.selectbox("Category", list(category_mapping.keys()))
+# Select drug
+drug_name = st.selectbox("Drug Name", unique_drug_names)
+drug_category = get_drug_category(drug_name)
+st.write(f"Category for selected drug: {drug_category}")
 
 # Input fields for other features
 duration_days = st.number_input("Duration Days", min_value=1, max_value=365, value=30)
