@@ -1,7 +1,9 @@
+python>=3.8
+pip>=23.0
 numpy 
 pandas 
 matplotlib  
-pickle 
+pickle-mixin
 scikit-learn 
 streamlit
 statsmodels
