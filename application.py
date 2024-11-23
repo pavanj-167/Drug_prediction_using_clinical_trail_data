@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 # Load the trained model
 @st.cache_resource
 def load_model():
-    with open('best_gradient_boosting_model.pkl','rb') as file:
+    with open('best_gradient_boosting_model.pkl', 'rb') as file:
         model = pickle.load(file)
     return model
 
@@ -27,10 +27,19 @@ category_mapping = {
     'Hypertension': 5, 'Neuropathy': 6, 'Pain Management': 7, 'Thyroid': 8
 }
 
-def get_drug_category(selected_drug):
-    category = df[df['drug_name'] == selected_drug]['category'].iloc[0]
-    return category
+# Mapping for drug_name and its category
+drug_category_df = pd.DataFrame({
+    'drug_name': list(drug_name_mapping.keys()),
+    'category': [
+        'Hypertension', 'Pain Management / Heart Health', 'Neuropathy', 'Thyroid',
+        'Hypertension', 'Diabetes', 'Asthma', 'Acid Reflux', 'Depression', 'Cholesterol'
+    ]
+})
 
+def get_drug_category(selected_drug):
+    """Retrieve the category based on the selected drug name."""
+    category = drug_category_df[drug_category_df['drug_name'] == selected_drug]['category'].iloc[0]
+    return category
 
 # Streamlit interface for the user
 st.title("Drug Efficacy Score Prediction")
@@ -38,9 +47,12 @@ st.title("Drug Efficacy Score Prediction")
 # Collect user input for new patient data
 st.header("Enter New Patient Data:")
 
-# Select drug and category
+# Select drug name
 drug_name = st.selectbox("Drug Name", list(drug_name_mapping.keys()))
-drug_category = st.selectbox("Category", list(category_mapping.keys()))
+
+# Dynamically get the drug category
+drug_category = get_drug_category(drug_name)
+st.write(f"Automatically selected category for {drug_name}: **{drug_category}**")
 
 # Input fields for other features
 duration_days = st.number_input("Duration Days", min_value=1, max_value=365, value=30)
