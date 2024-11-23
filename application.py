@@ -9,9 +9,6 @@ def load_model():
     with open('best_gradient_boosting_model.pkl','rb') as file:
         model = pickle.load(file)
     return model
-def get_drug_category(selected_drug):
-    category = df[df['drug_name'] == selected_drug]['category'].iloc[0]
-    return category
 
 # Feature names as required by the model
 feature_names = [
@@ -29,6 +26,11 @@ category_mapping = {
     'Acid Reflux': 0, 'Asthma': 1, 'Cholesterol': 2, 'Depression': 3, 'Diabetes': 4,
     'Hypertension': 5, 'Neuropathy': 6, 'Pain Management': 7, 'Thyroid': 8
 }
+
+def get_drug_category(selected_drug):
+    category = df[df['drug_name'] == selected_drug]['category'].iloc[0]
+    return category
+
 
 # Streamlit interface for the user
 st.title("Drug Efficacy Score Prediction")
